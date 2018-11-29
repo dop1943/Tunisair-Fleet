@@ -1,0 +1,785 @@
+Airline ;Aircraft with seatmap ;Seat Pitch ;Seat Width ;Video Type ;Laptop Power ;Power Type ;Wi-Fi ;Seat Type 
+Aegean Airlines;Airbus A319 (319);30;18;None;None;None;No;Standard
+Aegean Airlines;Airbus A320 (320);30;18;Overhead TV;None;None;No;Standard
+Aegean Airlines;Bombardier Q400 (DH4);30;17;None;None;None;No;Standard
+Aegean Airlines;ATR 42-600 (ATR);30;17;None;None;None;No;Standard
+Aer Lingus;Airbus A321 (321);31-32;17;None;None;None;No;Standard
+Aer Lingus;Airbus A320 (320);31-32;17;None;None;None;No;Standard
+Aeroflot;Airbus A321 (321) V1;30-32;18;None;None;None;No;Standard
+Aeroflot;Airbus A321 (321) V2;30-32;18;None;All Seats;AC Power;No;Standard
+Aeroflot;Airbus A321 (321) V3;30-32;18;Portable Device;None;None;No;Standard
+Aeroflot;Boeing 737-800 (738);30-32;18;None;All Seats;AC Power;No;Standard
+Aeroflot;Sukhoi Superjet 100-95B (SU9);30-32;18.3;None;None;None;No;Standard
+Aeroflot;Airbus A320 (320) V1;30-32;18;None;None;None;No;Standard
+Aeroflot;Airbus A320 (320) V2;30-32;18;None;None;None;No;Standard
+Aerolineas Argentinas;Boeing 737-700 (737);32;17;None;None;None;No;Standard
+Aerolineas Argentinas;Boeing 737-800 (738);32;17;None;None;None;Yes;Standard
+Aeromexico;Boeing 737-700 (737);31;17;Overhead TV;None;None;No;Standard
+Aeromexico;Boeing 737-800 (738) V1;34;17;On-Demand TV;None;None;No;Standard
+Aeromexico;Boeing 737-800 (738) V1;31;17;On-Demand TV;None;None;No;Standard
+Aeromexico;Boeing 737-800 (738) V2;34;17;On-Demand TV;None;None;Yes;Standard
+Aeromexico;Boeing 737-800 (738) V2;31;17;On-Demand TV;None;None;Yes;Standard
+Aeromexico;Embraer 170 (E70);31;17.3;None;None;None;No;Standard
+Aeromexico;Embraer 190 (E90) V1;31;18.3;None;None;None;No;Standard
+Aeromexico;Embraer 190 (E90) V2;31;18.3;None;None;None;No;Standard
+Aeromexico;Boeing 737 MAX 8 (7M8);31;17;On-Demand TV;None;None;Yes;Standard
+Aeromexico;Boeing 737 MAX 8 (7M8);34;17;On-Demand TV;None;None;Yes;Standard
+Aeromexico;Boeing 737-700 (737);34;17;Overhead TV;None;None;No;Standard
+Air Austral;Boeing 737-800 (738);31;16.9-17.3;Overhead TV;None;None;Yes;Standard
+Air Austral;ATR 72-500 (AT7);30;17;None;None;None;No;Standard
+Air Canada;Airbus A320 (320);31-33;17.8;On-Demand TV;Some Seats;AC Power;Yes;Standard
+Air Canada;Airbus A321 (321) rouge;29;18;Portable Device;Some Seats;AC Power;No;Standard
+Air Canada;Airbus A321 (321) rouge;34;18;Portable Device;Some Seats;AC Power;No;Standard
+Air Canada;Airbus A321 (321) V1;31-32;17.8;On-Demand TV;All Seats;AC Power;No;Standard
+Air Canada;Airbus A321 (321) V2;31-32;17.8;On-Demand TV;All Seats;AC Power;Yes;Standard
+Air Canada;Beechcraft 1900D;30;20.2;None;None;None;No;Standard
+Air Canada;Boeing 737 MAX 8 (7M8);30-34;18;On-Demand TV;All Seats;AC Power;No;Standard
+Air Canada;Bombardier CRJ-100/200;31;17;None;None;None;No;Standard
+Air Canada;Bombardier CRJ-705;34;17;On-Demand TV;None;None;No;Standard
+Air Canada;Bombardier CRJ-900;31;17;On-Demand TV;None;None;No;Standard
+Air Canada;Bombardier Q400;31;17;None;None;None;No;Standard
+Air Canada;de Havilland Dash 8 (100);31;17;None;None;None;No;Standard
+Air Canada;de Havilland Dash 8 (300);31;17;None;None;None;No;Standard
+Air Canada;Embraer E-175;35;18;On-Demand TV;Some Seats;AC Power;Yes;Standard
+Air Canada;Airbus A320 (320);35;17.8;On-Demand TV;Some Seats;AC Power;Yes;Standard
+Air Canada;Embraer E-190;35;18;On-Demand TV;Some Seats;AC Power;No;Standard
+Air Canada;Embraer E-190;31-33;18;On-Demand TV;Some Seats;AC Power;No;Standard
+Air Canada;Airbus A319 (319) rouge;34;18;Portable Device;None;None;No;Standard
+Air Canada;Airbus A319 (319) rouge;29;18;Portable Device;None;None;No;Standard
+Air Canada;Airbus A319 (319);31;17.8;On-Demand TV;Some Seats;AC Power;Yes;Standard
+Air Canada;Embraer E-175;32-34;18;On-Demand TV;Some Seats;AC Power;Yes;Standard
+Air China;Airbus A321 (321) V2;31;17;Overhead TV;None;None;No;Standard
+Air China;Boeing 737-700 (737);30-31;18.0;Overhead TV;None;None;No;Standard
+Air China;Boeing 737-800 (738) V1;31;18.0;Overhead TV;None;None;No;Standard
+Air China;Boeing 737-800 (738) V2;31;18.0;Overhead TV;None;None;No;Standard
+Air China;Airbus A321 (321) V1;31;17.7;Overhead TV;None;None;No;Standard
+Air China;Airbus A320 (320);30;18.0;Overhead TV;None;None;No;Standard
+Air China;Airbus A319 (319);30;17.7;Overhead TV;None;None;No;Standard
+Air Europa;Boeing 737-800 (738);31;17;Overhead TV;None;None;No;Standard
+Air Europa;Embraer 195 (E95);30;18;Overhead TV;None;None;No;Standard
+Air France;Airbus A320 (320) Caribbean;34;18;None;All Seats;AC Power;No;Standard
+Air France;Airbus A320 (320) Caribbean;32;18;None;None;None;No;Standard
+Air France;Airbus A320 (320) V1;32;18;Overhead TV;None;None;No;Standard
+Air France;Airbus A318 (318);32;18;None;None;None;No;Standard
+Air France;Airbus A320 (320) V3;32;18;None;None;None;No;Standard
+Air France;Airbus A321 (321) V1;32;18;Overhead TV;None;None;No;Standard
+Air France;Airbus A321 (321) V2;32;18;None;None;None;No;Standard
+Air France;ATR 42-500 (AT5) V1;31;17;None;None;None;No;Standard
+Air France;ATR 72-500 (AT7) V2;31;17;None;None;None;No;Standard
+Air France;ATR 72-600 (ATR);31;17;None;None;None;No;Standard
+Air France;Bombardier CRJ-1000;32;17;None;None;None;No;Standard
+Air France;Bombardier CRJ-700;32;17;None;None;None;No;Standard
+Air France;Embraer E-170;31;17.3;None;None;None;No;Standard
+Air France;Embraer E-190;31;17.3;None;None;None;No;Standard
+Air France;Embraer ERJ-145;31;17.3;None;None;None;No;Standard
+Air France;RJ-85 Avroliner (AR8);31;18;None;None;None;No;Standard
+Air France;Airbus A319 (319) V1;32;18;None;None;None;No;Standard
+Air France;Airbus A319 (319) V2;32;18;None;None;None;No;Standard
+Air France;Airbus A320 (320) V2;32;18;Overhead TV;None;None;No;Standard
+Air India;Airbus A320 (320) V1;30-32;17;Seatback TV;None;None;No;Standard
+Air India;Airbus A321 (321);31-32;17-18;Seatback TV;None;None;No;Standard
+Air India;Airbus A319 (319) V1;31-32;17.4;Seatback TV;None;None;No;Standard
+Air India;Airbus A319 (319) V2;29-30;17.8;Seatback TV;None;None;No;Standard
+Air India;Airbus A320 (320) V2;31-32;17-18;Seatback TV;None;None;No;Standard
+Air India Express;Boeing 737-800 (738);29-30;17;None;None;None;No;Standard
+Air Italy;Boeing 737 MAX 8 (7M8);30-32;17;None;All Seats;AC Power;No;Standard
+Air New Zealand;Airbus A320 (320) Intl;30-34;17;On-Demand TV;None;None;No;Standard
+Air New Zealand;Bombardier Q300;32;17.5;None;None;None;No;Standard
+Air New Zealand;Airbus A320 (320) Domestic;30-33;17.7;None;None;None;No;Standard
+Air New Zealand;ATR 72-500;31;17.0;None;None;None;No;Standard
+Air Serbia;ATR 72-500 (AT7);31;17;None;None;None;No;Standard
+Air Serbia;Airbus A319 (319);30;18;None;None;None;Yes;Standard
+Air Serbia;Airbus A320 (320);30;18;None;None;None;Yes;Standard
+Air Serbia;ATR 72-200 (ATR);31;17;None;None;None;No;Standard
+Air Serbia;Boeing 737-300 (733);31;17;None;None;None;No;Standard
+Air Transat;Boeing 737-800 V2 Domestic;32-33;16.5;Overhead TV;None;None;No;Standard
+Air Transat;Boeing 737-800 V1 International;32-33;16.5;Overhead TV;None;None;No;Standard
+Air Vanuatu;ATR 72-600 (AT7);30-31;17;None;None;None;No;Standard
+AirAsia;Airbus A320 (320);29;18;None;None;None;No;Standard
+Alaska Airlines;Boeing 737-800 (738) Slimline;31-32;17;None;All Seats;AC Power;Yes;Standard
+Alaska Airlines;Boeing 737-800 (738) Slimline;35;17;Portable Device;All Seats;AC Power;Yes;Standard
+Alaska Airlines;Boeing 737-900 (739) V1;32-35;17;None;All Seats;AC Power;Yes;Standard
+Alaska Airlines;Boeing 737-900 (739) V2;35;17;None;All Seats;AC Power;Yes;Standard
+Alaska Airlines;Boeing 737-900 (739) V2;31-32;17;None;All Seats;AC Power;Yes;Standard
+Alaska Airlines;Boeing 737-400 (734);32-34;17.0;None;None;None;Yes;Standard
+Alaska Airlines;Bombardier Q400;31;17;None;None;None;No;Standard
+Alaska Airlines;Embraer 175 (E75);32;18.25;None;None;None;Yes;Standard
+Alaska Airlines;Embraer 175 (E75);36;18.25;None;None;None;Yes;Standard
+Alaska Airlines;Boeing 737-700 (737);32-36;17;None;None;None;Yes;Standard
+Alaska Airlines;Bombardier CRJ-700;31;17.0;None;None;None;No;Standard
+Alitalia;Airbus A319 (319) One Class;35;18;None;None;None;No;Standard
+Alitalia;Airbus A320 (320) One Class;35;18;None;None;None;No;Standard
+Alitalia;Airbus A320 (320) Two Class;30;18;None;None;None;No;Standard
+Alitalia;Airbus A321 (321) One Class;30-34;18;None;None;None;No;Standard
+Alitalia;Airbus A321 (321) One Class;34;18;None;None;None;No;Standard
+Alitalia;Airbus A321 (321) Two Class;30-32;18;None;None;None;No;Standard
+Alitalia;Embraer E-175;30;18;None;None;None;No;Standard
+Alitalia;Embraer E-190;31-33;18;None;None;None;No;Standard
+Alitalia;Airbus A319 (319) One Class;30-35;18;None;None;None;No;Standard
+Alitalia;Airbus A320 (320) One Class;30-35;18;None;None;None;No;Standard
+Allegiant;Airbus A320 (320);30;17;None;None;None;No;Standard
+Allegiant;McDonnell Douglas MD-80 (M80);30;17;None;None;None;No;Standard
+Allegiant;McDonnell Douglas MD-80 (M80);34;17;None;None;None;No;Standard
+Allegiant;Airbus A319 (319);34;17;None;None;None;No;Standard
+Allegiant;Airbus A320 (320);34;17;None;None;None;No;Standard
+Allegiant;Airbus A319 (319);30;17;None;None;None;No;Standard
+American Airlines;Airbus A320 (320);34-39;16.5 - 18;None;None;None;Yes;Standard
+American Airlines;Airbus A320 (320);31-32;16.5 - 18;None;None;None;Yes;Standard
+American Airlines;Airbus A321 (321) V2;34-35;18;Seatback TV;All Seats;AC Power;Yes;Standard
+American Airlines;Airbus A321 (321) V2;31-32;18;Seatback TV;All Seats;AC Power;Yes;Standard
+American Airlines;Airbus A321 (321) V3;34;17 - 18.1;None;None;None;Yes;Standard
+American Airlines;Airbus A321 (321) V3;31-32;17 - 18.1;None;None;None;Yes;Standard
+American Airlines;Airbus A321 (32B) Transcon;35;17.3 - 17.7;Seatback TV;All Seats;AC Power;Yes;Standard
+American Airlines;Airbus A321 (32B) Transcon;31;17.3 - 17.7;Seatback TV;All Seats;AC Power;Yes;Standard
+American Airlines;Boeing 737 MAX 8 (7M8);33;16.6-17.8;Portable Device;All Seats;AC Power;Yes;Standard
+American Airlines;Boeing 737 MAX 8 (7M8);30;16.6-17.8;Portable Device;All Seats;AC Power;Yes;Standard
+American Airlines;Boeing 737-800 (738) V1;34-40;17.1 - 17.3;Yes;All Seats;AC Power;Yes;Standard
+American Airlines;Boeing 737-800 (738) V1;31;16.9 - 17.3;Yes;All Seats;AC Power;Yes;Standard
+American Airlines;Boeing 737-800 (738) V2;33;16.6-17.8;Portable Device;All Seats;AC Power;Yes;Standard
+American Airlines;Boeing 737-800 (738) V2;30;16.6-17.8;Portable Device;All Seats;AC Power;Yes;Standard
+American Airlines;Bombardier CRJ-200 (CR2);31-32;16.75 - 17.2;None;None;None;No;Standard
+American Airlines;Bombardier CRJ-700 (CR7) V1;33;17.3;None;None;None;Yes;Standard
+American Airlines;Bombardier CRJ-700 (CR7) V1;31;17.3;None;None;None;Yes;Standard
+American Airlines;Bombardier CRJ-700 (CR7) V2;34;17.25;None;None;None;Yes;Standard
+American Airlines;Bombardier CRJ-700 (CR7) V2;31;17.25;None;None;None;Yes;Standard
+American Airlines;Bombardier CRJ-900 (CR9) V1;31;16.85 - 17.17;None;None;None;Yes;Standard
+American Airlines;Bombardier CRJ-900 (CR9) V1;35;16.85 - 17.17;None;None;None;Yes;Standard
+American Airlines;Bombardier CRJ-900 (CR9) V2;34;17.2;None;None;None;Yes;Standard
+American Airlines;Bombardier CRJ-900 (CR9) V2;31;17.2;None;None;None;Yes;Standard
+American Airlines;Bombardier CRJ-900 (CR9) V3;34;16.55 - 17.33;None;None;None;Yes;Standard
+American Airlines;Bombardier CRJ-900 (CR9) V3;31;16.55 - 17.33;None;None;None;Yes;Standard
+American Airlines;de Havilland Dash 8 (DH3);33;17;None;None;None;No;Standard
+American Airlines;de Havilland Dash 8 (DH3);32;17;None;None;None;No;Standard
+American Airlines;Embraer ERJ-140 (ERD);31;17;None;None;None;No;Standard
+American Airlines;Embraer ERJ-140 (ERD);33;17;None;None;None;No;Standard
+American Airlines;Embraer ERJ-145 (ER4);31;17;None;None;None;No;Standard
+American Airlines;Embraer ERJ-145 (ER4);33;17;None;None;None;No;Standard
+American Airlines;Airbus A319 (319);34;15.9 - 17.3;Yes;All Seats;AC Power;Yes;Standard
+American Airlines;Embraer ERJ-175 (E75);31-32;18.25;None;None;None;Yes;Standard
+American Airlines;Embraer ERJ-175 (E75);34;18.25;None;None;None;Yes;Standard
+American Airlines;Embraer ERJ-175 (E75) V1;30;18.2 - 19.3;None;None;None;Yes;Standard
+American Airlines;Embraer ERJ-175 (E75) V1;34;18.2 - 19.3;None;None;None;Yes;Standard
+American Airlines;Embraer ERJ-190 (E90);31;16.5;None;None;None;Yes;Standard
+American Airlines;Embraer ERJ-190 (E90);34-36;16.5;None;None;None;Yes;Standard
+American Airlines;McDonnell Douglas MD-80 (M80);31;17.4 - 17.8;None;None;None;Yes;Standard
+American Airlines;McDonnell Douglas MD-80 (M80);34;17.4 - 17.8;None;All Seats;DC Power;Yes;Standard
+American Airlines;Airbus A319 (319);31;15.9 - 17.3;Yes;All Seats;AC Power;Yes;Standard
+American Airlines;Embraer ERJ-145 (ER4);31;17;None;None;None;No;Standard
+ANA;Boeing 737-800 (738) V1;32;18;Overhead TV;None;None;No;Standard
+ANA;Airbus A320 (320) V1;31-32;17.0;None;None;None;No;Standard
+ANA;Boeing 737-800 (738) V2;32;18;Overhead TV;None;None;No;Standard
+Asiana;Airbus A321-200 (321) V1;33;18;On-Demand TV;All Seats;AC Power;No;Standard
+Asiana;Airbus A321-200 (321) V3;32;17.0;Overhead TV;None;None;No;Standard
+Asiana;Airbus A321-100 (321);33;17.0;Overhead TV;None;None;No;Standard
+Asiana;Airbus A321-200 (321) V2;33;17.0;Overhead TV;All Seats;AC Power;No;Standard
+Asiana;Airbus A320-200 (320) V1;33;17.0;Overhead TV;None;None;No;Standard
+AtlasGlobal;Airbus A319-100 (319);30;18;Overhead TV;None;None;No;Standard
+AtlasGlobal;Airbus A320-200 (320);30;18;Overhead TV;None;None;No;Standard
+AtlasGlobal;Airbus A321-200 (321) V1;30;18;Overhead TV;None;None;No;Standard
+AtlasGlobal;Airbus A321-200 (321) V2;30;18;Overhead TV;None;None;No;Standard
+Austrian;Airbus A320 (320);30;18;Overhead TV;None;None;No;Standard
+Austrian;Airbus A321 (321);30;17.5;Overhead TV;None;None;No;Standard
+Austrian;Airbus A319 (319);30;17.5;Overhead TV;None;None;No;Standard
+Austrian;Embraer E-195 (E95) V1;31;17.3;None;None;None;No;Standard
+Austrian;Airbus A320 (320);30;18;Overhead TV;None;None;No;Standard
+Austrian;Bombardier Q400 (DH4);30;17;None;None;None;No;Standard
+Avianca;Airbus A319 (319);31-33;17.8;On-Demand TV;All Seats;AC Power;No;Standard
+Avianca;Airbus A320 (320);31-32;18.1;On-Demand TV;All Seats;AC Power;No;Standard
+Avianca;Airbus A321 (321);31-32;17-18.5;On-Demand TV;All Seats;AC Power;No;Standard
+Avianca;Embraer 190 (E90);30-31;17.5-18;On-Demand TV;None;None;No;Standard
+Avianca;Airbus A318 (318);31-32;17-18;Overhead TV;None;None;No;Standard
+Azerbaijan Hava Yollary;Airbus A319 (319);30-32;18;Overhead TV;None;None;No;Standard
+Azerbaijan Hava Yollary;Airbus A320 (320);30-32;18;Overhead TV;None;None;No;Standard
+Azerbaijan Hava Yollary;Embraer E-190 (E90);31;18;None;None;None;No;Standard
+Azul;ATR 72-600 (AT7);31;17;None;None;None;No;Standard
+Azul;Embraer E-190 (E90);34;18;Satellite TV;None;None;No;Standard
+Azul;Embraer E-190 (E90);31;18;Satellite TV;None;None;No;Standard
+Azul;Embraer E-195 (E95);34;18;Satellite TV;None;None;No;Standard
+Azul;Embraer E-195 (E95);31;18;Satellite TV;None;None;No;Standard
+Azul;Airbus A320neo (320);30-34;17;On-Demand TV;All Seats;AC Power;No;Standard
+Bangkok Airways;Airbus A319 (319) Two Class;31;19.8;None;None;None;No;Standard
+Bangkok Airways;Airbus A319 (319);31;19.8;None;None;None;No;Standard
+Bangkok Airways;ATR 72-500 (ATR);31;18;None;None;None;No;Standard
+Bangkok Airways;Airbus A320 (320);31;19.8;None;None;None;No;Standard
+bmi regional;Embraer E-145 (ERJ);31-32;18.0;None;None;None;No;Standard
+bmi regional;Embraer E-135 (ER3);31;18;None;None;None;No;Standard
+British Airways;Airbus A319 (319) Domestic V3;29-30;17;None;None;None;No;Standard
+British Airways;Airbus A319 (319) European;29;17;Overhead TV;None;None;No;Standard
+British Airways;Airbus A320 (320) Domestic V1;31-34;17.5;None;None;None;No;Standard
+British Airways;Airbus A320 (320) Domestic V2;31-34;17.5;None;None;None;No;Standard
+British Airways;Airbus A320 (320) European;30;17;Overhead TV;None;None;No;Standard
+British Airways;Airbus A321 (321) Domestic;31-34;17.0;Overhead TV;None;None;No;Standard
+British Airways;Airbus A321 (321) European;30;17;Overhead TV;None;None;No;Standard
+British Airways;Boeing 767-300 (763) Domestic;33;17.0;None;None;None;No;Standard
+British Airways;Embraer E-170 European;30;18;None;None;None;No;Standard
+British Airways;Embraer E-170 UK Domestic;31;18;None;None;None;No;Standard
+British Airways;Embraer E-190 European;30;18;None;None;None;No;Standard
+British Airways;Embraer E-190 UK Domestic;31;18;None;None;None;No;Standard
+British Airways;Airbus A319 (319) Domestic V1;29-30;17.0;None;None;None;No;Standard
+British Airways;Airbus A319 (319) Domestic V2;29-30;17.8;None;None;None;No;Standard
+Brussels Airlines;Airbus A320 (320) V2;30;17.5;Overhead TV;None;None;No;Standard
+Brussels Airlines;Airbus A319 (319);30-32.5;17.8;Overhead TV;None;None;No;Standard
+Brussels Airlines;Airbus A320 (320) V1;30;17.5;Overhead TV;None;None;No;Standard
+CEBU Pacific Air;Airbus A320 (320);29;17;None;None;None;No;Standard
+CEBU Pacific Air;ATR 72-500;29;17;None;None;None;No;Standard
+CEBU Pacific Air;Airbus A319 (319);29;17;None;None;None;No;Standard
+China Airlines;Airbus A330-300 (333) V1;31-32;18.0;On-Demand TV;Some Seats;AC Power;No;Standard
+China Airlines;Embraer E-190;32;18.0;None;None;None;No;Standard
+China Airlines;Boeing 737-800 (738);32;17.0;None;None;None;No;Standard
+China Eastern;Airbus A319 (319);32;17.7;Overhead TV;None;None;No;Standard
+China Eastern;Boeing 737-800 (738) V1/V2;31;17;Overhead TV;None;None;No;Standard
+China Eastern;Boeing 737-800 (738) V3;31;17;Overhead TV;None;None;No;Standard
+China Eastern;Boeing 737-800 (738) V4;31;17;Overhead TV;None;None;No;Standard
+China Eastern;Airbus A320 (320);31;17.7;Overhead TV;None;None;No;Standard
+China Eastern;Airbus A321-200 (321);31;17.8;Overhead TV;None;None;No;Standard
+China Eastern;Boeing 737-700 (737);31;17;Overhead TV;None;None;No;Standard
+China Southern;Airbus A320 (320);36;19.5;Overhead TV;None;None;No;Standard
+China Southern;Airbus A320 (320);30;19.5;Overhead TV;None;None;No;Standard
+China Southern;Airbus A321 (321);35;18;Overhead TV;None;None;No;Standard
+China Southern;Airbus A321 (321);31;18;Overhead TV;None;None;No;Standard
+China Southern;Boeing 737-300 (733) V1;29;17.2;None;None;None;No;Standard
+China Southern;Boeing 737-300 (733) V2;29;17.2;None;None;None;No;Standard
+China Southern;Boeing 737-300 (733) V3;30;17.1;None;None;None;No;Standard
+China Southern;Boeing 737-300 (733) V4;30;17.1;None;None;None;No;Standard
+China Southern;Boeing 737-700 (737) V1;34-36;17.2;Overhead TV;None;None;No;Standard
+China Southern;Boeing 737-700 (737) V1;29;17.2;Overhead TV;None;None;No;Standard
+China Southern;Boeing 737-700 (737) V2;36;17.2;Overhead TV;None;None;No;Standard
+China Southern;Boeing 737-700 (737) V2;30;17.2;Overhead TV;None;None;No;Standard
+China Southern;Airbus A319 (319);36;19.5;Overhead TV;None;None;No;Standard
+China Southern;Boeing 737-700 (737) V3;29;17.8;Overhead TV;None;None;No;Standard
+China Southern;Boeing 737-800 (738) V1;34-36;17.2;Overhead TV;None;None;No;Standard
+China Southern;Boeing 737-800 (738) V1;29;17.2;Overhead TV;None;None;No;Standard
+China Southern;Boeing 737-800 (738) V2;35;17.2;Overhead TV;None;None;No;Standard
+China Southern;Boeing 737-800 (738) V2;31;17.2;Overhead TV;None;None;No;Standard
+China Southern;Boeing 737-800 (738) V3;36;17.2;Overhead TV;None;None;No;Standard
+China Southern;Boeing 737-800 (738) V3;32;17.2;Overhead TV;None;None;No;Standard
+China Southern;Embraer ERJ-190;34;19.7;None;None;None;No;Standard
+China Southern;Embraer ERJ-190;31;19.7;None;None;None;No;Standard
+China Southern;Airbus A319 (319);31;19.5;Overhead TV;None;None;No;Standard
+China Southern;Boeing 737-700 (737) V3;37;17.8;Overhead TV;None;None;No;Standard
+Condor;Airbus A321-200 (321);30;17;Overhead TV;None;None;No;Standard
+Condor;Airbus A320-200 (320);29;17;Overhead TV;None;None;No;Standard
+Condor;Boeing 767-300ER (763) V2;30;17;On-Demand TV;None;None;Yes;Standard
+Copa Airlines;Boeing 737-800 (738) V2;31;17.0;On-Demand TV;None;None;No;Standard
+Copa Airlines;Embraer E-190AR (E90) V1;31;18.0;Overhead TV;None;None;No;Standard
+Copa Airlines;Embraer E-190AR (E90) V2;31;18.0;Overhead TV;None;None;No;Standard
+Copa Airlines;Boeing 737-800 (738) V1;31;17.0;On-Demand TV;None;None;No;Standard
+Copa Airlines;Embraer E-190 (E90) V3;31;18;Overhead TV;None;None;No;Standard
+Copa Airlines;Boeing 737-700 (73G);31;17;Overhead TV;None;None;No;Standard
+Croatia Airlines;Airbus A319 (319);32;18;Overhead TV;None;None;No;Standard
+Croatia Airlines;Bombardier Q400 (DH4);31;17;None;None;None;No;Standard
+Croatia Airlines;Airbus A320 (320);32;18;Overhead TV;None;None;No;Standard
+Croatia Airlines;Bombardier CRJ-1000 (CRK);32;17;None;None;None;No;Standard
+Czech Airlines;ATR 42-500 (AT5);30;17;None;None;None;No;Standard
+Czech Airlines;ATR 72-500 (AT7);30;17;None;None;None;No;Standard
+Czech Airlines;Airbus A319 (319);31;18;None;None;None;No;Standard
+Delta;Airbus A319 (319) V2;30-31;18;Satellite TV;All Seats;AC Power;Yes;Standard
+Delta;Airbus A320 (320/32K) V2;34;18;None;All Seats;AC Power;Yes;Standard
+Delta;Airbus A320 (320/32K) V2;30-31;18;None;All Seats;AC Power;Yes;Standard
+Delta;Airbus A320 (320/32R) V1;31-32;17.2;None;None;None;Yes;Standard
+Delta;Airbus A320 (320/32R) V1;34;17.2;None;None;None;Yes;Standard
+Delta;Airbus A321 (321);34;18;On-Demand TV;All Seats;AC Power;Yes;Standard
+Delta;Airbus A321 (321);31;18;On-Demand TV;All Seats;AC Power;Yes;Standard
+Delta;Boeing 717-200 (717);31;18.1;None;All Seats;AC Power;Yes;Standard
+Delta;Boeing 717-200 (717);34;18.1;None;All Seats;AC Power;Yes;Standard
+Delta;Boeing 737-700 (73W);30-31;17.2;On-Demand TV;None;None;Yes;Standard
+Delta;Boeing 737-700 (73W);34;17.2;On-Demand TV;None;None;Yes;Standard
+Delta;Boeing 737-800 (73H);31-32;17.2;On-Demand TV;None;None;Yes;Standard
+Delta;Boeing 737-800 (73H);34;17.2;On-Demand TV;All Seats;AC Power;Yes;Standard
+Delta;Boeing 737-900ER (739);34;17.2;On-Demand TV;All Seats;AC Power;Yes;Standard
+Delta;Boeing 737-900ER (739);30-31;17.2;On-Demand TV;All Seats;AC Power;Yes;Standard
+Delta;Boeing 757-200 (757);31-33;17.2;Overhead TV;None;None;Yes;Standard
+Delta;Boeing 757-200 (757);34-35;17.2;Overhead TV;None;None;Yes;Standard
+Delta;Boeing 757-200 (75D);34;17.2;On-Demand TV;All Seats;AC Power;Yes;Standard
+Delta;Boeing 757-200 (75D);30-32;17.2;On-Demand TV;All Seats;AC Power;Yes;Standard
+Delta;Boeing 757-200 (75G);34;17.2;None;None;None;Yes;Standard
+Delta;Boeing 757-200 (75G);30-32;17.2;None;None;None;Yes;Standard
+Delta;Boeing 757-200 (75P);34;17.3;On-Demand TV;None;None;Yes;Standard
+Delta;Airbus A319 (319) V2;34;18;Satellite TV;All Seats;AC Power;Yes;Standard
+Delta;Boeing 757-300 (75Y);34;17.2;On-Demand TV;All Seats;AC Power;Yes;Standard
+Delta;Boeing 757-300 (75Y);30-32;17.2;On-Demand TV;All Seats;AC Power;Yes;Standard
+Delta;Boeing 767-300 (76P/76Q);31-32;17.9;On-Demand TV;None;None;Yes;Standard
+Delta;Boeing 767-300 (76P/76Q);34;17.9;On-Demand TV;None;None;Yes;Standard
+Delta;Bombardier CRJ-100/200;31;17.3;None;None;None;No;Standard
+Delta;Bombardier CRJ-700 (CR7) V1;31;17.3;None;None;None;Yes;Standard
+Delta;Bombardier CRJ-700 (CR7) V1;34;17.3;None;None;None;Yes;Standard
+Delta;Bombardier CRJ-700 (CR7) V2;34;17.3;None;None;None;No;Standard
+Delta;Bombardier CRJ-700 (CR7) V2;31;17.3;None;None;None;No;Standard
+Delta;Bombardier CRJ-700 (CR7) V3;34;17.3;None;All Seats;AC Power;Yes;Standard
+Delta;Bombardier CRJ-700 (CR7) V3;31;17.3;None;All Seats;AC Power;Yes;Standard
+Delta;Bombardier CRJ-900 (CR9);31;16.85-17.17 in;None;None;None;Yes;Standard
+Delta;Bombardier CRJ-900 (CR9);34;16.85-17.17 in;None;None;None;Yes;Standard
+Delta;Embraer E-170 (E70);34;18.3;None;None;None;Yes;Standard
+Delta;Embraer E-170 (E70);31;18.3;None;None;None;Yes;Standard
+Delta;Embraer E-175 (E75);31;18.25;None;None;None;Yes;Standard
+Delta;Embraer E-175 (E75);34;18.25;None;None;None;Yes;Standard
+Delta;McDonnell Douglas MD-88 (M88);31-33;16.79-17.17 in;None;None;None;Yes;Standard
+Delta;McDonnell Douglas MD-88 (M88);34;16.79-17.17 in;None;None;None;Yes;Standard
+Delta;McDonnell Douglas MD-90 (M90);30-31;18.1;None;None;None;Yes;Standard
+Delta;McDonnell Douglas MD-90 (M90);34;18.1;None;All Seats;AC Power;Yes;Standard
+Delta;Boeing 757-200 (75P);31;17.3;On-Demand TV;None;None;Yes;Standard
+Dragonair;Airbus A320 (320) V1;29-30;17.5;None;None;None;No;Standard
+Dragonair;Airbus A321 (321);30-31;18.7;Seatback TV;All Seats;AC Power;No;Standard
+Dragonair;Airbus A320 (320) V2;29-30;17.5;None;None;None;No;Standard
+easyJet;Airbus A320 (320) V1;29;18;None;None;None;No;Standard
+easyJet;Airbus A320 (320) V2;29;18;None;None;None;No;Standard
+easyJet;Airbus A319 (319);29;18.0;None;None;None;No;Standard
+Edelweiss Air;Airbus A320-200 (320);30;18;None;None;None;No;Standard
+Egyptair;Airbus A321 (321);32;18;Overhead TV;None;None;No;Standard
+Egyptair;Boeing 777-300ER (77W);33;18;On-Demand TV;All Seats;AC Power;No;Standard
+Egyptair;Embraer E170 (E70);31;17;None;None;None;No;Standard
+Egyptair;Boeing 737-800 (738) V1;32;17;Overhead TV;None;None;No;Standard
+Egyptair;Airbus A320 (320);32;18;Overhead TV;None;None;No;Standard
+Egyptair;Boeing 737-800 (738) V2;32;18;On-Demand TV;None;None;No;Standard
+EL AL;Boeing 737-900 (739);32;17;Overhead TV;All Seats;AC Power;No;Standard
+EL AL;Boeing 737-800 (738);32;17;Overhead TV;None;None;No;Standard
+Ethiopian Airlines;Boeing 737-800 (738);31;17;Overhead TV;None;None;No;Standard
+Ethiopian Airlines;Bombardier Q400 (DH4) V1;30;17;None;None;None;No;Standard
+Ethiopian Airlines;Bombardier Q400 (DH4) V2;30;17;None;None;None;No;Standard
+Ethiopian Airlines;Boeing 737-700 (737);30;17;Overhead TV;None;None;No;Standard
+Etihad;Airbus A321 (321);32;18.1;Seatback TV;None;None;Yes;Standard
+Etihad;Airbus A319 (319);32;17.1;On-Demand TV;None;None;No;Standard
+Etihad;Airbus A320 (320);32;18.1;On-Demand TV;None;None;Yes;Standard
+Etihad;Boeing 787-9 (789) V2;31-32;17.1;On-Demand TV;All Seats;AC Power;Yes;Standard
+Eurowings;Airbus A319 (319);30-32;18;None;None;None;Yes;Standard
+Eurowings;Airbus A320 (320);30-32;18;None;None;None;Yes;Standard
+Eurowings;Bombardier CRJ-900 (CR9);32;17;None;None;None;No;Standard
+Eurowings;Bombardier CRJ-900 (CR9);31;17;None;None;None;No;Standard
+Eurowings;Airbus A319 (319);32;18;None;None;None;Yes;Standard
+Eurowings;Airbus A320 (320);32;18;None;None;None;Yes;Standard
+EVA Air;Airbus A321 (321);31-32;17.7;On-Demand TV;None;None;No;Standard
+EVA Air;Boeing 777-300ER (77N/77W) V1;33;18.3;On-Demand TV;None;None;No;Standard
+Fiji Airways;Aerospatiale/Alenia 42-500 (AT5);33;17;None;None;None;No;Standard
+Fiji Airways;Aerospatiale/Alenia 72-600 (AT7);30;17.3;None;None;None;No;Standard
+Fiji Airways;De Havilland DHC-6 (DHT);30;17;None;None;None;No;Standard
+Finnair;Airbus A320 (320);31;18;Overhead TV;None;None;No;Standard
+Finnair;Airbus A321 (321) V1;31;18;Overhead TV;None;None;No;Standard
+Finnair;Airbus A321 (321) V2;31;18;Overhead TV;None;None;No;Standard
+Finnair;Airbus A319 (319);31;18;Overhead TV;None;None;No;Standard
+Finnair;Embraer E-190;31;18;None;None;None;No;Standard
+Finnair;Embraer E-170;31;18;None;None;None;No;Standard
+FlyBE;Bombardier Q400 (DH4);30;17;None;None;None;No;Standard
+FlyBE;Embraer 195 (E95);31;17;None;None;None;No;Standard
+FlyBE;Embraer 175 (E75);30;17;None;None;None;No;Standard
+flydubai;Boeing 737-800 (738) V2;30;18;On-Demand TV;None;None;Yes;Standard
+flydubai;Boeing 737-800 (738) V1;30;18;On-Demand TV;None;None;Yes;Standard
+FlyOne;Airbus A320-200 (320);29-32;18;None;None;None;No;Standard
+FlyOne;Airbus A319-100 (319);29-32;18;None;None;None;No;Standard
+Frontier;Airbus A319 (319) V1;28-31;18;None;None;None;No;Standard
+Frontier;Airbus A319 (319) V2;36-38;18;None;None;None;No;Standard
+Frontier;Airbus A319 (319) V2;28-31;18;None;None;None;No;Standard
+Frontier;Airbus A320 (320) V1;36-38;18;None;None;None;No;Standard
+Frontier;Airbus A320 (320) V1;28-29;18;None;None;None;No;Standard
+Frontier;Airbus A320 (320) V2;36-38;18.0;None;None;None;No;Standard
+Frontier;Airbus A320 (320) V2;28-29;18.0;None;None;None;No;Standard
+Frontier;Airbus A321 (321);36-38;18;None;None;None;No;Standard
+Frontier;Airbus A321 (321);30-32;18;None;None;None;No;Standard
+Frontier;Airbus A319 (319) V1;36-38;18;None;None;None;No;Standard
+Garuda Indonesia;ATR72-600 (ATR);31;17;None;None;None;No;Standard
+Garuda Indonesia;Boeing 737 MAX 8 (7M8);31;17;On-Demand TV;None;None;No;Standard
+Garuda Indonesia;Bombardier CRJ-1000;30;17;None;None;None;No;Standard
+Garuda Indonesia;Boeing 737-800 (738);31-32;17;On-Demand TV;None;None;No;Standard
+Germanwings;Airbus A319 (319) V1;32;18;None;None;None;No;Standard
+Germanwings;Airbus A319 (319) V2;29;18;None;None;None;No;Standard
+Germanwings;Airbus A319 (319) V2;32;18;None;None;None;No;Standard
+Germanwings;Airbus A319 (319) V1;29;18;None;None;None;No;Standard
+Germanwings;Airbus A319 (319) V3;32;18;None;None;None;No;Standard
+Germanwings;Airbus A320 (320);32;18;None;None;None;No;Standard
+Germanwings;Airbus A320 (320);29;18;None;None;None;No;Standard
+Germanwings;Bombardier CRJ-900;32;17.5;None;None;None;No;Standard
+Germanwings;Bombardier CRJ-900;30;17.5;None;None;None;No;Standard
+Germanwings;Airbus A319 (319) V3;29;18;None;None;None;No;Standard
+Gol;Boeing 737-700 (737);30-32;17;Portable Device;None;None;No;Standard
+Gol;Boeing 737-800 (738) V1;31-32;17;Portable Device;None;None;No;Standard
+Gol;Boeing 737-800 (738) V2;31-32;17;Portable Device;None;None;No;Standard
+Gol;Boeing 737-800 (738) V3;31-32;17;Portable Device;None;None;No;Standard
+Gulf Air;Airbus A320 (320) V1;31-32;18;On-Demand TV;None;None;No;Standard
+Gulf Air;Airbus A320ER (320) V2;31-34;18;Seatback TV;None;None;No;Standard
+Gulf Air;Airbus A330-200 (332) V2;30-33;18;On-Demand TV;None;None;No;Standard
+Hainan Airlines;Boeing 737-700 (737);29-31;17;None;None;None;No;Standard
+Hainan Airlines;Boeing 737-800 (738);31-32;17;Overhead TV;None;None;No;Standard
+Hainan Airlines;Boeing 737 MAX 8 (7M8);31-32;17;None;None;None;No;Standard
+Hawaiian Airlines;Boeing 717-200 (717);30-31;18;None;None;None;No;Standard
+Hawaiian Airlines;Aerospatiale ATR-42;31;17;None;None;None;No;Standard
+Hong Kong Airlines;Airbus A330-200 (33V) V2;30-32;18;Portable Device;None;None;No;Standard
+Hong Kong Airlines;Airbus A320-200 (32S) V1;31-34;18;Overhead TV;None;None;No;Standard
+Hong Kong Airlines;Airbus A320-200 (32H) V2;31-34;18;None;None;None;No;Standard
+Hong Kong Airlines;Airbus A330-200 (332) V1;30-31;18;Seatback TV;None;None;No;Standard
+Iberia;Airbus A321 (321);28-30;17;None;None;None;No;Standard
+Iberia;Airbus A320 (320);28;17;None;None;None;No;Standard
+Iberia;Bombardier CRJ-200;31;17;None;None;None;No;Standard
+Iberia;Bombardier CRJ-900;31;17;None;None;None;No;Standard
+Iberia;LEVEL - Airbus A321-200 (321);30-34;18;None;None;None;No;Standard
+Iberia;Airbus A319 (319);28;17;None;None;None;No;Standard
+Iberia;Bombardier CRJ-1000;31;17;None;None;None;No;Standard
+Iberia;ATR-72;30;17;None;None;None;No;Standard
+Iberia;Airbus A320 (320) Express;28;17;None;None;None;No;Standard
+IndiGo Airlines;Airbus A320 (320);30;18;None;None;None;No;Standard
+InterJet;Sukhoi Superjet 100-95 (SU9);34;17;None;None;None;No;Standard
+InterJet;Airbus A320 (320);34;17;None;None;None;No;Standard
+Japan Airlines;Boeing 767-300 (763) Domestic;31;17.3;None;None;None;Yes;Standard
+Japan Airlines;Boeing 767-300ER (76W) V3;31;17.3;Seatback TV;None;None;Yes;Standard
+Japan Airlines;Bombardier CRJ-200;30-31;17.5-18.5;None;None;None;No;Standard
+Japan Airlines;Bombardier Q100;30-31;17.5-18.5;None;None;None;No;Standard
+Japan Airlines;Bombardier Q300;30-31;17.5-18.5;None;None;None;No;Standard
+Japan Airlines;Boeing 737-400 (734) One Class;31;17.3;None;None;None;Yes;Standard
+Japan Airlines;Embraer E-170;31;17.5-18.5;None;None;None;No;Standard
+Japan Airlines;Saab 340B;30-31;17.5-18.5;None;None;None;No;Standard
+Japan Airlines;Boeing 737-400 (734) Two Class;31;17.3;On-Demand TV;None;None;Yes;Standard
+Japan Airlines;Boeing 737-800 (738) Domestic;31;17.3;None;None;None;Yes;Standard
+Japan Airlines;Bombardier Q400;30-31;17.5-18.5;None;None;None;No;Standard
+Jeju Air;Boeing 737-800;29-31;17;None;None;None;No;Standard
+Jeju Air;Boeing 737-800 V2;29-31;17;None;None;None;No;Standard
+Jet Airways;Boeing 737-700 (73G);30;17;Seatback TV;None;None;No;Standard
+Jet Airways;Boeing 737-800 (738);30;17;On-Demand TV;None;None;No;Standard
+Jet Airways;Boeing 737-900 (739);30;17;None;None;None;No;Standard
+Jet Airways;Aerospatiale/Alenia 72-500 (AT7) V2;30;17;None;None;None;No;Standard
+Jet Airways;Aerospatiale/Alenia 72-500 (AT7) V1;30;17;None;None;None;No;Standard
+Jet Airways;Aerospatiale/Alenia 72-600 (ATR);30;17;None;None;None;No;Standard
+Jet Airways;Boeing 737-900ER (739);30-32;17;On-Demand TV;None;None;No;Standard
+Jet2;Boeing 737-800 (738);30;17;None;None;None;No;Standard
+Jet2;Boeing 737-300 (733);31;17;None;None;None;No;Standard
+JetBlue;Airbus A321 (321) Transcon;37-41;18;On-Demand TV;All Seats;AC Power;Yes;Standard
+JetBlue;Airbus A321 (321) Transcon;33;18;On-Demand TV;All Seats;AC Power;Yes;Standard
+JetBlue;Airbus A321 (321) V2;37-41;18;On-Demand TV;All Seats;AC Power;Yes;Standard
+JetBlue;Airbus A321 (321) V2;32;18;On-Demand TV;All Seats;AC Power;Yes;Standard
+JetBlue;Embraer E-190 (E90);39;18.25;On-Demand TV;None;None;Yes;Standard
+JetBlue;Airbus A320 (320);38-39;17.8;On-Demand TV;None;None;Yes;Standard
+JetBlue;Airbus A320 (320);34;17.8;On-Demand TV;None;None;Yes;Standard
+JetBlue;Embraer E-190 (E90);32;18.25;On-Demand TV;None;None;Yes;Standard
+Jetstar;Airbus A321 (321);29;17.8;None;None;None;No;Standard
+Jetstar;Airbus A320 (320);29;17.9;None;None;None;No;Standard
+Kenya Airways;Embraer E-190;31;17;Seatback TV;None;None;No;Standard
+Kenya Airways;Boeing 737-800 (738);32;17;Overhead TV;None;None;No;Standard
+KLM;Boeing 737-800 (738);33;17;None;None;None;No;Standard
+KLM;Boeing 737-900 (739);30;17.0;None;None;None;No;Standard
+KLM;Boeing 737-900 (739);33;17.0;None;All Seats;AC Power;No;Standard
+KLM;Embraer E-175;32;17;None;None;None;No;Standard
+KLM;Embraer E-175;29;17;None;None;None;No;Standard
+KLM;Embraer E-190;30;17;None;None;None;No;Standard
+KLM;Embraer E-190;32;17;None;None;None;No;Standard
+KLM;Boeing 737-800 (738);30;17;None;None;None;No;Standard
+KLM;Boeing 737-700 (737);33;17.0;None;None;None;No;Standard
+KLM;Boeing 737-700 (737);30;17.0;None;None;None;No;Standard
+Korean Air;Boeing 737-800 (738) V2;33-34;17.2;On-Demand TV;Some Seats;AC Power;Yes;Standard
+Korean Air;Boeing 737-900 (739);30-31;17.2;None;None;None;No;Standard
+Korean Air;Boeing 737-900ER (739);31-33;17.2;On-Demand TV;Some Seats;AC Power;No;Standard
+Korean Air;Boeing 737-800 (738) V1;32-34;17.2;None;None;None;No;Standard
+Korean Air;Airbus A220-300;31-32;18.5-19;None;All Seats;AC Power;No;Standard
+Korean Air;Airbus A220-300;36;18.5-19;None;All Seats;AC Power;No;Standard
+LATAM Brasil;Airbus A320 (320);30;18;Overhead TV;None;None;No;Standard
+LATAM Brasil;Airbus A320 (320);32;18;Overhead TV;None;None;No;Standard
+LATAM Brasil;Airbus A319 (319);32;18;Overhead TV;None;None;No;Standard
+LATAM Brasil;Airbus A320 (320) Business;33;18;Overhead TV;None;None;No;Standard
+LATAM Brasil;Airbus A321 (321);28;18;Overhead TV;None;None;No;Standard
+LATAM Brasil;Airbus A321 (321);33;18;Overhead TV;None;None;No;Standard
+LATAM Brasil;Airbus A319 (319);34;18;Overhead TV;None;None;No;Standard
+LATAM Brasil;Airbus A320 (320) Business;31;18;Overhead TV;None;None;No;Standard
+LATAM Chile;Airbus A319 (319) V2;33;19;On-Demand TV;None;None;No;Recliner
+LATAM Chile;Airbus A320 (320) V1;30;17.7;Overhead TV;None;None;No;Standard
+LATAM Chile;Airbus A320 (320) V2;33;19;On-Demand TV;None;None;No;Recliner
+LATAM Chile;Airbus A320 (320) V2;30;17;Overhead TV;None;None;No;Standard
+LATAM Chile;Airbus A320 (320) V3;32;17;Overhead TV;None;None;No;Standard
+LATAM Chile;Airbus A320 (320) V3;30;17;Overhead TV;None;None;No;Standard
+LATAM Chile;Airbus A319 (319) V2;30;17;Overhead TV;None;None;No;Standard
+LATAM Chile;Airbus A321 (321);32;17;Overhead TV;None;None;No;Standard
+LATAM Chile;Airbus A319 (319) V1;31;17;Overhead TV;None;None;No;Standard
+LATAM Chile;Airbus A321 (321);30;17;Overhead TV;None;None;No;Standard
+Lion Airlines;Boeing 737-800 (738);31;17;None;None;None;No;Standard
+Lion Airlines;Boeing 737-900 (739) V1;29;17;None;None;None;No;Standard
+Lion Airlines;Boeing 737-900 (739) V2;29;17;None;None;None;No;Standard
+Lion Airlines;Boeing 737-300 (733);30;17;None;None;None;No;Standard
+LOT Polish Airlines;Boeing 737 MAX 8 (7M8);30;17;None;All Seats;AC Power;No;Standard
+LOT Polish Airlines;Boeing 737 MAX 8 (7M8);32;17;None;All Seats;AC Power;No;Standard
+LOT Polish Airlines;Embraer ERJ-175 (E75);31;17.3;None;All Seats;AC Power;No;Standard
+LOT Polish Airlines;Embraer ERJ-175 (E75);31;17.3;None;None;None;No;Standard
+LOT Polish Airlines;Embraer ERJ-195 (E95);31;17.3;None;None;None;No;Standard
+LOT Polish Airlines;Embraer ERJ-170 (E70);31;17.3;None;None;None;No;Standard
+Lufthansa;Airbus A319 (319);31;18;None;None;None;No;Standard
+Lufthansa;Airbus A320 (320) V2;30;18;None;None;None;No;Standard
+Lufthansa;Airbus A321 (321);30;18;Portable Device;None;None;No;Standard
+Lufthansa;Bombardier CRJ-700;31;17.5;None;None;None;No;Standard
+Lufthansa;Bombardier CRJ-900;31;17.5;None;None;None;No;Standard
+Lufthansa;Embraer E-190;32;18.19;None;None;None;No;Standard
+Lufthansa;Embraer E-195;32;18.25;None;None;None;No;Standard
+Lufthansa;Airbus A320 (320) V1;30;18;None;None;None;No;Standard
+Malaysia Airlines;Boeing 737-800 (738) V2;30;17;On-Demand TV;All Seats;AC Power;No;Standard
+Malaysia Airlines;Boeing 737-800 (738) V1;30;17;On-Demand TV;All Seats;AC Power;No;Standard
+Middle East Airlines;Airbus A320-200 (320);32;18;On-Demand TV;None;None;No;Standard
+Nok Air;Bombardier Q400 (DH4);29;17;None;None;None;No;Standard
+Nok Air;Boeing 737-800 (738);31;17.2;None;None;None;No;Standard
+Nok Air;ATR 72-200 (ATR);31;16.5;None;None;None;No;Standard
+Nordwind Airlines;Boeing 737-800 (738);29;17;None;None;None;No;Standard
+Nordwind Airlines;Airbus A321 (321);29;18;None;None;None;No;Standard
+Norwegian Air Shuttle;Boeing 737-800 (738);29-31;17.2;Overhead TV;None;None;Yes;Standard
+Oman Air;Boeing 737-700 (73G);32;17.5;Overhead TV;None;None;No;Standard
+Oman Air;Boeing 737-800 (738);31;18;Seatback TV;None;None;No;Standard
+Pakistan International Airlines;ATR 72-500 (AT7);30;17;None;None;None;No;Standard
+Pakistan International Airlines;Airbus A320-200 (320) V1;30-32;18;Overhead TV;None;None;No;Standard
+Pakistan International Airlines;Airbus A320-200 (320) V2;30-32;18;Overhead TV;None;None;No;Standard
+Pakistan International Airlines;ATR 42-500 (AT5);30-33;17;None;None;None;No;Standard
+Peach;Airbus A320 (320);29;17;None;None;None;No;Standard
+Pegasus Airlines;Boeing 737-800 (738);29;17.3;Overhead TV;None;None;No;Standard
+Pegasus Airlines;Airbus A320neo (320);30-31;18;None;None;None;No;Standard
+Pegasus Airlines;Airbus A320 (320);31;17;Overhead TV;None;None;No;Standard
+Philippine Airlines;Airbus A320 (320) V1;31;18;Overhead TV;None;None;No;Standard
+Philippine Airlines;Airbus A321 (321);30;18;None;None;None;No;Standard
+Philippine Airlines;Bombardier Q300 (DH3);32;17.0;None;None;None;No;Standard
+Philippine Airlines;Bombardier Q400 (DH4);32;17.0;None;None;None;No;Standard
+Philippine Airlines;Airbus A320 (320) V2;31;18;Overhead TV;None;None;No;Standard
+Philippine Airlines;Airbus A321 (321);34;18;None;None;None;No;Standard
+Porter;Bombardier Q400 (DH4);34;17;None;None;None;No;Standard
+Porter;Bombardier Q400 (DH4);32;17;None;None;None;No;Standard
+Qantas;Boeing 737-800 (738) V1;30;17.2;Overhead TV;All Seats;AC Power;No;Standard
+Qantas;Boeing 737-800 (738) V2;30;17.2;On-Demand TV;None;None;No;Standard
+Qantas;Boeing 747-400 (744) Three Class V1;31;17.5;Seatback TV;None;None;No;Standard
+Qantas;Boeing 717-200 (717);30-31;17;None;None;None;No;Standard
+Qantas;Bombardier Q400 (DH4);31;17.0;None;None;None;No;Standard
+Qantas;de Havilland Dash 8 (DH2);31-32;17.0;None;None;None;No;Standard
+Qantas;de Havilland Dash 8 (DH3);31-32;17.0;None;None;None;No;Standard
+Qantas;Boeing 717-200 (717) Two Class;31;18;Portable Device;None;None;No;Standard
+Qantas;Boeing 747-400 (744) Three Class V2;31;17.5;On-Demand TV;None;None;No;Standard
+Qatar Airways;Airbus A320 (320) V1;31;18;On-Demand TV;None;None;No;Standard
+Qatar Airways;Airbus A320 (320) V2;31;18;On-Demand TV;None;None;Yes;Standard
+Qatar Airways;Airbus A321 (321) V1;31;18;On-Demand TV;None;None;No;Standard
+Qatar Airways;Airbus A321 (321) V2;31;18;On-Demand TV;None;None;No;Standard
+Qatar Airways;Airbus A321 (321) V3;32;17;None;None;None;No;Standard
+Qatar Airways;Airbus A319-133LR (319);32;17.5;On-Demand TV;None;None;No;Standard
+Regional Express;SAAB 340B (SF3);30;18.5;None;None;None;No;Standard
+Royal Air Maroc;ATR 72-600 (AT7);30;17;None;None;None;No;Standard
+Royal Air Maroc;Boeing 737-800 (738);32;17;Overhead TV;None;None;No;Standard
+Royal Air Maroc;Embraer E-190 (E90);32;17;None;None;None;No;Standard
+Royal Air Maroc;Boeing 737-700 (73G);30-32;17;Overhead TV;None;None;No;Standard
+Royal Brunei;Airbus A320 (320) V2;32;18;Overhead TV;None;None;No;Standard
+Royal Brunei;Airbus A320 (320) V2;30;18;Overhead TV;None;None;No;Standard
+Royal Brunei;Airbus A320 (320) V1;31-32;17.5;Overhead TV;None;None;No;Standard
+Royal Jordanian;Airbus A321 (321);32;17.5;On-Demand TV;None;None;No;Standard
+Royal Jordanian;Embraer ERJ-195 (E95);33;18.25;None;None;None;No;Standard
+Royal Jordanian;Airbus A319 (319);32-33;17;On-Demand TV;None;None;No;Standard
+Royal Jordanian;Embraer ERJ-175 (E75);31;18;None;None;None;No;Standard
+Royal Jordanian;Airbus A320 (320);32;17.7;On-Demand TV;None;None;No;Standard
+Ryanair;Boeing 737-800 (738);30;17;None;None;None;No;Standard
+Ryanair;Boeing 737-800 (738);32-34;17;None;None;None;No;Standard
+S7 Airlines;Airbus A321 (321);30-33;17-18;None;None;None;No;Standard
+S7 Airlines;Boeing 737-800 (738);29-32;17-20;None;None;None;No;Standard
+S7 Airlines;Airbus A320 (320);30-33;17-18;None;None;None;No;Standard
+S7 Airlines;Airbus A319 (319);30-33;17-18;None;None;None;No;Standard
+SAS;Airbus A320 (320);31-32;18;None;None;None;No;Standard
+SAS;Airbus A320neo (320);30-31;18;None;None;None;No;Standard
+SAS;Airbus A321 (321);31;18;None;None;None;No;Standard
+SAS;Airbus A319 (319);31;18;Overhead TV;None;None;No;Standard
+SAS;Boeing 737-600 (736) V2;31;17.3;None;None;None;No;Standard
+SAS;Boeing 737-700 (737) V1;30-32;17.3;None;None;None;No;Standard
+SAS;Boeing 737-700 (737) V2;31-33;17.3;None;None;None;No;Standard
+SAS;Boeing 737-800 (738);30-32;17.3;None;None;None;Yes;Standard
+SAS;Bombardier CRJ-900 (CR9);31;17;None;None;None;No;Standard
+SAS;Boeing 737-600 (736) V1;31;17-18;None;None;None;No;Standard
+Saudia;Airbus A320 (320) V1;32-33;17.8-18.3;Overhead TV;None;None;No;Standard
+Saudia;Airbus A321 (321);32-33;17.8;Overhead TV;None;None;No;Standard
+Saudia;Airbus A330-300 (333) V1;32;16.9-17.3;Overhead TV;None;None;Yes;Standard
+Saudia;Boeing 747-400 (744);32;17.3-17.7;Overhead TV;None;None;No;Standard
+Saudia;Embraer 170;32;18.3;None;None;None;No;Standard
+Saudia;Airbus A320 (320) V2;32;17.8-18.3;Overhead TV;None;None;No;Standard
+Scoot Airlines;Airlines 320 (320);28;18;None;All Seats;AC Power;Yes;Standard
+Scoot Airlines;Airbus 319 (319);28;18;None;All Seats;AC Power;Yes;Standard
+Shanghai Airlines;Airbus A330-200 (332);32-33;17.8;On-Demand TV;All Seats;AC Power;Yes;Standard
+Shanghai Airlines;Boeing 737-700 (737);31;17;Overhead TV;None;None;Yes;Standard
+Shanghai Airlines;Boeing 737-800 (738);31;17;Overhead TV;None;None;Yes;Standard
+Silkair;Airbus A319 (319);31;18;Overhead TV;None;None;No;Standard
+Silkair;Airbus A320 (320);31;18;Overhead TV;None;None;No;Standard
+Silkair;Boeing 737 MAX 8 (7M8);30;17;None;None;None;Yes;Standard
+Silkair;Boeing 737-800 (738);30;17;Overhead TV;All Seats;AC Power;No;Standard
+Skylanes;Boeing 737-800 (738);32;17.2;Overhead TV;None;None;No;Standard
+South African Airways;Airbus A319 (319);31-32;17;Overhead TV;None;None;No;Standard
+South African Airways;Boeing 737-800 (738);31-32;17;Overhead TV;None;None;No;Standard
+South African Airways;Airbus A320 (320);31-32;18;Overhead TV;All Seats;AC Power;No;Standard
+Southwest;Boeing 737-700 (737);31;17;None;None;None;Yes;Standard
+Southwest;Boeing 737 MAX 8 (7M8);32-33;17.8;None;None;None;Yes;Standard
+SpiceJet;Bombardier Q400 (DH4);30;17;None;None;None;No;Standard
+SpiceJet;Boeing 737-800 (738);29;17;None;None;None;No;Standard
+SpiceJet;Boeing 737-900ER (739);29;17;None;None;None;No;Standard
+Spirit;Airbus A321 (321) V2;28;17.75;None;None;None;No;Standard
+Spirit;Airbus A320 (320) V1;36;20;None;None;None;No;Standard
+Spirit;Airbus A320 (320) V2;28;17.75;None;None;None;No;Standard
+Spirit;Airbus A321 (321) V1;36;20;None;None;None;No;Standard
+Spirit;Airbus A321 (321) V1;28;17.75;None;None;None;No;Standard
+Spirit;Airbus A321 (321) V2;36;20;None;None;None;No;Standard
+Spirit;Airbus A320 (320) V2;36;20;None;None;None;No;Standard
+Spirit;Airbus A320 (320) V1;28;17.75;None;None;None;No;Standard
+Spirit;Airbus A319 (319);28;17.75;None;None;None;No;Standard
+Spirit;Airbus A319 (319);36;20;None;None;None;No;Standard
+Spring Airlines;Airbus A320-200 (320);28-30;17;None;None;None;No;Standard
+Spring Japan;Boeing 737-800 (738);32-34;17;None;None;None;No;Standard
+Spring Japan;Boeing 737-800 (738);29;17;None;None;None;No;Standard
+SriLankan Airlines;Airbus A320neo (321);31-32;17;On-Demand TV;None;None;No;Standard
+SriLankan Airlines;Airbus A321 (321);31-32;18;On-Demand TV;None;None;No;Standard
+SriLankan Airlines;Airbus A321neo (321);31-32;18;On-Demand TV;None;None;No;Standard
+SriLankan Airlines;Airbus A320-200 (320) V1;29-32;17;None;None;None;No;Standard
+SriLankan Airlines;Airbus A320-200 (320) V2;31-32;17;On-Demand TV;None;None;No;Standard
+Sun Country;Boeing 737-700 (73G);31-33;17;Portable Device;None;None;No;Standard
+Sun Country;Boeing 737-800 (738);31-33;17;Portable Device;None;None;No;Standard
+SWISS;Airbus A320 (320) V2;31;17;Overhead TV;None;None;No;Standard
+SWISS;Airbus A321 (321) V1;31;17;Overhead TV;None;None;No;Standard
+SWISS;Airbus A321 (321) V2;29-31;17;Overhead TV;None;None;No;Standard
+SWISS;Bombardier CS100;30-32;18.5;None;None;None;No;Standard
+SWISS;Bombardier CS300;31;17;None;None;None;No;Standard
+SWISS;Airbus A320 (320) V1;31;17.0;Overhead TV;None;None;No;Standard
+SWISS;Airbus A319 (319);31;17.0;Overhead TV;None;None;No;Standard
+SWISS;Embraer 190 (E90);32;18;None;None;None;No;Standard
+TACA;Airbus A320 (320);30-34;18.1;On-Demand TV;All Seats;AC Power;No;Standard
+TACA;Airbus A321 (321);32-34;18.1;On-Demand TV;All Seats;AC Power;No;Standard
+TACA;Embraer E-190;31-33;17-18.5;None;None;None;No;Standard
+TACA;Airbus A319 (319);30-34;17.7;On-Demand TV;All Seats;AC Power;No;Standard
+TAP Portugal;Airbus A319 (319) V2;30;18.0;Overhead TV;None;None;No;Standard
+TAP Portugal;Airbus A319 (319) V1;28;18;Overhead TV;All Seats;AC Power;No;Standard
+TAP Portugal;Airbus A321 (321);30;18;Overhead TV;None;None;No;Standard
+TAP Portugal;Embraer E190 (E90);30;18;None;None;None;No;Standard
+TAP Portugal;Airbus A320 (320);30;18;Overhead TV;All Seats;AC Power;No;Standard
+THAI;Airbus A320 (320);28-31;18;None;None;None;No;Standard
+THAI;Boeing 737-400 (734);32;17.2;Overhead TV;None;None;No;Standard
+Thomas Cook Airlines;Boeing 757-200 (752);29-30;17;Overhead TV;None;None;No;Standard
+Thomas Cook Airlines;Boeing 757-300 (753);29-30;17;None;None;None;No;Standard
+Thomas Cook Airlines;Airbus A321-200 (321);28-30;17.6;Overhead TV;None;None;No;Standard
+Thomson;Boeing 757-200 (752);33-34;17.2;None;None;None;No;Standard
+Thomson;Boeing 737-800 (738);28;17.2;None;None;None;No;Standard
+Thomson;Boeing 767-300ER (763) V1;33;18;Overhead TV;None;None;No;Standard
+Thomson;Boeing 757-200 (752);28;17.2;None;None;None;No;Standard
+tigerair Australia;Boeing 737-800 (738);33-38;17;Portable Device;None;None;No;Standard
+tigerair Australia;Boeing 737-800 (738);31;17;Portable Device;None;None;No;Standard
+tigerair Australia;Airbus A320 (320);38;18;None;None;None;No;Standard
+tigerair Australia;Airbus A320 (320);29;18;None;None;None;No;Standard
+tigerair Australia;Boeing 737-800 (738);38;17;Portable Device;None;None;No;Standard
+Transavia Airlines;Boeing 737-800 (738);29-30;17;Overhead TV;None;None;No;Standard
+Transavia Airlines;Boeing 737-700 (73G);29-30;17;Overhead TV;None;None;No;Standard
+TUIfly;Boeing 737-800 (73H);30;18;None;None;None;No;Standard
+Tunis Air;Airbus A319 (319) V2;31-33;18;None;None;None;No;Standard
+Tunis Air;Airbus A319 (319) V1;31-33;18;None;None;None;No;Standard
+Tunis Air;Boeing 737-600 (736);31;17;None;None;None;No;Standard
+Tunis Air;Airbus A320 (320);31-33;18;None;None;None;No;Standard
+Turkish Airlines;Airbus A319 (319);30;17.2;Overhead TV;None;None;No;Standard
+Turkish Airlines;Airbus A321 (321) V1;29-32;17.2-17.8;Overhead TV;None;None;No;Standard
+Turkish Airlines;Airbus A321 (321) V2;29-32;17.2;On-Demand TV;None;None;No;Standard
+Turkish Airlines;Boeing 737-700 (737) One Class;30-31;17.0;None;None;None;No;Standard
+Turkish Airlines;Boeing 737-700 (737) Two Class;30-31;17.0;None;None;None;No;Standard
+Turkish Airlines;Boeing 737-800 (738) V1;30-31;16-17;On-Demand TV;None;None;No;Standard
+Turkish Airlines;Airbus A320 (320);30-31;17.8;Overhead TV;None;None;No;Standard
+Turkish Airlines;Boeing 737-800 (738) V3;30-31;17;On-Demand TV;None;None;No;Standard
+Turkish Airlines;Boeing 737-900ER (739) V1;30-31;17.0;On-Demand TV;None;None;No;Standard
+Turkish Airlines;Boeing 737-900ER (739) V2;30-31;17;On-Demand TV;None;None;No;Standard
+Turkish Airlines;Boeing 737-800 (738) V2;30-31;16-17;Overhead TV;None;None;No;Standard
+Ukraine International;Boeing 737-800 (738);30-31;16-17;None;None;None;No;Standard
+Ukraine International;Embraer E-190 (E90) V1;29;18;None;None;None;No;Standard
+Ukraine International;Embraer E-190 (E90) V2;29;18;None;None;None;No;Standard
+United;Airbus A319 (319);34;17.7;None;All Seats;AC Power;Yes;Standard
+United;Airbus A319 (319);30;17.7;None;None;None;Yes;Standard
+United;Airbus A320 (320);35;17.7;None;All Seats;AC Power;Yes;Standard
+United;Airbus A320 (320);30;17.7;None;None;None;Yes;Standard
+United;Boeing 737 MAX 9;31;18.0;None;Some Seats;AC Power;Yes;Standard
+United;Boeing 737-700 (737) Domestic;36;17.2;On-Demand TV;All Seats;AC Power;Yes;Standard
+United;Boeing 737-700 (737) Domestic;31;17.2;On-Demand TV;None;None;Yes;Standard
+United;Boeing 737-700 (737) Micronesia;35;17.2;Overhead TV;None;AC Power;Yes;Standard
+United;Boeing 737-700 (737) Micronesia;31;17.2;Overhead TV;None;None;Yes;Standard
+United;Boeing 737-700 (737) V3;34-38;17.1;On-Demand TV;All Seats;AC Power;Yes;Standard
+United;Boeing 737-700 (737) V3;30;17.1;On-Demand TV;All Seats;AC Power;Yes;Standard
+United;Boeing 737-700 (737) V3;30;17.1;On-Demand TV;None;None;Yes;Standard
+United;Boeing 737-800 (738) V1;37;17.3;On-Demand TV;All Seats;AC Power;Yes;Standard
+United;Boeing 737-800 (738) V1;31;17.3;On-Demand TV;None;None;Yes;Standard
+United;Boeing 737-800 (738) V2;30;17.3;Satellite TV;None;None;Yes;Standard
+United;Boeing 737-800 (738) V2;34;17.3;Satellite TV;All Seats;AC Power;Yes;Standard
+United;Boeing 737-800 (738) V3;30;17.3;Satellite TV;None;None;Yes;Standard
+United;Boeing 737-800 (738) V3;34;17.3;Satellite TV;All Seats;AC Power;Yes;Standard
+United;Boeing 737-800 (738) V4;34;17.3;Seatback TV;None;AC Power;No;Standard
+United;Boeing 737-800 (738) V4;30;16.3-17.3;Seatback TV;None;AC Power;No;Standard
+United;Boeing 737-800 (738) V4;30;16.3-17.3;Seatback TV;None;None;No;Standard
+United;Boeing 737-900 (739) V1/V2;35;17.3;On-Demand TV;All Seats;AC Power;Yes;Standard
+United;Boeing 737-900 (739) V1/V2;31;17.3;On-Demand TV;None;None;Yes;Standard
+United;Boeing 737-900 (739) V3;34;17.3;None;Some Seats;AC Power;Yes;Standard
+United;Boeing 737-900 (739) V3;30-31;17.3;None;Some Seats;AC Power;Yes;Standard
+United;Boeing 737-900 (739) V4;34;17;On-Demand TV;All Seats;AC Power;Yes;Standard
+United;Boeing 737-900 (739) V4;30-31;16-17;On-Demand TV;All Seats;AC Power;Yes;Standard
+United;Boeing 757-300 (753) V1/V2;31;17.2;On-Demand TV;Some Seats;AC Power;Yes;Standard
+United;Boeing 757-300 (753) V1/V2;35;17.2;On-Demand TV;All Seats;AC Power;Yes;Standard
+United;Bombardier CRJ-200 V1;31;17.0;None;None;None;No;Standard
+United;Bombardier CRJ-200 V1;34;17.0;None;None;None;No;Standard
+United;Bombardier CRJ-200 V2;31;17.0;None;None;None;No;Standard
+United;Bombardier CRJ-200 V2;34;17.0;None;None;None;No;Standard
+United;Bombardier CRJ-700 V1;34;17.0;None;None;None;No;Standard
+United;Bombardier CRJ-700 V1;31;17.0;None;None;None;No;Standard
+United;Bombardier CRJ-700 V2;34;17.1;None;None;None;No;Standard
+United;Bombardier CRJ-700 V2;30;17.1;None;None;None;No;Standard
+United;Bombardier CRJ-700 V3;34;17;None;None;None;No;Standard
+United;Bombardier CRJ-700 V3;31;17;None;None;None;No;Standard
+United;Bombardier Q200;31;17.3;None;None;None;No;Standard
+United;Bombardier Q300;31;19.0;None;None;None;No;Standard
+United;Bombardier Q400 V1;34;17;None;None;None;No;Standard
+United;Bombardier Q400 V1;30;17;None;None;None;No;Standard
+United;Bombardier Q400 V2;35;17.0;None;None;None;No;Standard
+United;Bombardier Q400 V2;32;17.0;None;None;None;No;Standard
+United;Embraer EMB 170;34;18.2;None;None;None;Yes;Standard
+United;Embraer EMB 170;31;18.2;None;None;None;Yes;Standard
+United;Embraer EMB 175;34;18;None;None;None;Yes;Standard
+United;Embraer EMB 175;31;18;None;None;None;Yes;Standard
+United;Embraer EMB-120 V1;31;17;None;None;None;No;Standard
+United;Embraer EMB-120 V2;31;17;None;None;None;No;Standard
+United;Embraer ERJ-135;34;17.3;None;None;None;No;Standard
+United;Embraer ERJ-135;31;17.3;None;None;None;No;Standard
+United;Embraer ERJ-145 V1;31;17.3;None;None;None;No;Standard
+United;Embraer ERJ-145 V1;34;17.3;None;None;None;No;Standard
+United;Embraer ERJ-145 V2;31;17.3;None;None;None;No;Standard
+United;Embraer ERJ-145 V2;34;17.3;None;None;None;No;Standard
+United;Saab 340B;30;17.0;None;None;None;No;Standard
+UTair Aviation;ATR 72-500 (AT7);31;17;None;None;None;No;Standard
+UTair Aviation;Boeing 737-400 (734);31;17;None;None;None;No;Standard
+UTair Aviation;Boeing 737-800 (738) V1;31;17;None;None;None;No;Standard
+UTair Aviation;Boeing 737-800 (738) V2;31;17;None;None;None;No;Standard
+UTair Aviation;Boeing 737-500 (735);31;17;None;None;None;No;Standard
+Vanilla Air;Airbus A320 (320) V2;32;17.3;None;None;None;No;Standard
+Vietnam Airlines;Airbus A321-200 (321) V1;32;18;Overhead TV;None;None;No;Standard
+Vietnam Airlines;Airbus A321-200 (321) V3;32;18;Overhead TV;None;None;No;Standard
+Vietnam Airlines;ATR 72-500 (AT7);31;17;None;None;None;No;Standard
+Vietnam Airlines;Airbus A321-200 (321) V2;32;18;Overhead TV;None;None;No;Standard
+Virgin America;Airbus A319 (319);32;17.7;On-Demand TV;All Seats;AC Power;Yes;Standard
+Virgin America;Airbus A320 (320);38;17.7;On-Demand TV;All Seats;AC Power;Yes;Standard
+Virgin America;Airbus A320 (320);32;17.7;On-Demand TV;All Seats;AC Power;Yes;Standard
+Virgin America;Airbus A321 (321);38;17.7;On-Demand TV;All Seats;AC Power;Yes;Standard
+Virgin America;Airbus A321 (321);32;17.7;On-Demand TV;All Seats;AC Power;Yes;Standard
+Virgin America;Airbus A319 (319);38;17.7;On-Demand TV;All Seats;AC Power;Yes;Standard
+Virgin Australia;Fokker F-100;34;17.4;None;None;None;No;Standard
+Virgin Australia;Airbus A320 (320);31;17.8;None;None;None;No;Standard
+Virgin Australia;Boeing 737-700 (737);30;17;Portable Device;None;None;No;Standard
+Virgin Australia;Boeing 737-700 (737);31;17;Portable Device;None;None;No;Standard
+Virgin Australia;Fokker F-100;34;17.4;None;None;None;No;Standard
+Virgin Australia;Boeing 737-700 (737);31;17;Portable Device;None;None;No;Standard
+Virgin Australia;ATR 72-500;30-31;17.0;None;None;None;No;Standard
+Vistara;Airbus A320ceo & neo (320);33;18;None;None;None;No;Standard
+Vistara;Airbus A320ceo & neo (320);30-32;18;None;None;None;No;Standard
+Viva Aerobus;Airbus A320-200 (320);29;17.3;None;None;None;No;Standard
+Viva Aerobus;Airbus A320neo (320);29;17.3;None;None;None;No;Standard
+Volaris;Airbus A319 (319);30-32;18;None;All Seats;AC Power;No;Standard
+Volaris;Airbus A320 (320);30-32;18;None;None;None;No;Standard
+Volaris;Airbus A321 (321);30-32;18;None;None;None;No;Standard
+Vueling Airlines;Airbus A319 (319);30;17.9;None;None;None;No;Standard
+Vueling Airlines;Airbus A321 (321);29;17.7;None;None;None;No;Standard
+Vueling Airlines;Airbus A320 (320);29;17.7;None;None;None;No;Standard
+WestJet;Boeing 737 MAX 8 (7M8);34;17.0;Portable Device;None;None;Yes;Standard
+WestJet;Boeing 737 MAX 8 (7M8);31-34;17.0;Portable Device;None;None;Yes;Standard
+WestJet;Boeing 737-600 (736);36;17;On-Demand TV;Some Seats;AC Power;Yes;Standard
+WestJet;Boeing 737-600 (736);31-33;17;On-Demand TV;Some Seats;AC Power;Yes;Standard
+WestJet;Boeing 737-700 (737);36;17;On-Demand TV;Some Seats;AC Power;Yes;Standard
+WestJet;Boeing 737-700 (737);31-33;17;On-Demand TV;Some Seats;AC Power;Yes;Standard
+WestJet;Boeing 737-800 (738);36;17;On-Demand TV;All Seats;AC Power;Yes;Standard
+WestJet;Boeing 737-800 (738);31-33;17;On-Demand TV;All Seats;AC Power;Yes;Standard
+WestJet;Bombardier Q400;31;17;None;None;None;No;Standard
+WestJet;Bombardier Q400;30;17;None;None;None;No;Standard
+Wizzair;Airbus A320 (320);30-32;18;None;None;None;No;Standard
+Wizzair;Airbus A321 (321);30-32;18;None;None;None;No;Standard
+WOW air;Airbus A320 (320);29-35;17;None;All Seats;AC Power;No;Standard
+WOW air;Airbus A320neo (320);35-37;17;None;All Seats;AC Power;No;Standard
+WOW air;Airbus A320neo (320);29-31;17;None;All Seats;AC Power;No;Standard
+WOW air;Airbus A320neo (320);32-33;17;None;All Seats;AC Power;No;Standard
+WOW air;Airbus A321 (321) V1;30-31;17;None;All Seats;AC Power;No;Standard
+WOW air;Airbus A321 (321) V2;30-31;17;None;All Seats;AC Power;No;Standard
+Xiamen Airlines;Boeing 737-700 (73G);30;17;Overhead TV;None;None;No;Standard
+Xiamen Airlines;Boeing 737-800 (738) One Class;30;17;Overhead TV;None;None;No;Standard
+Xiamen Airlines;Boeing 737-800 (738) V2;31;17;Overhead TV;None;None;No;Standard
+Xiamen Airlines;Boeing 737-800 (738) V3;31;17;Overhead TV;None;None;No;Standard
