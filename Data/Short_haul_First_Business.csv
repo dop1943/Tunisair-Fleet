@@ -1,0 +1,356 @@
+Airline ;Aircraft with seatmap ;Seat Pitch ;Seat Width ;Video Type ;Laptop Power ;Power Type ;Wi-Fi ;Seat Type 
+Aegean Airlines;Airbus A319 (319);33;18;None;None;None;No;Standard
+Aegean Airlines;Airbus A320 (320);33;18;Overhead TV;None;None;No;Standard
+Aeroflot;Airbus A320 (320) V2;38;21;Portable Device;All Seats;AC Power;No;Recliner
+Aeroflot;Airbus A321 (321) V1;38;21;Portable Device;All Seats;AC Power;No;Recliner
+Aeroflot;Airbus A321 (321) V3;38;21;Portable Device;All Seats;AC Power;No;Recliner
+Aeroflot;Boeing 737-800 (738);38;21;On-Demand TV;All Seats;AC Power;No;Recliner
+Aeroflot;Sukhoi Superjet 100-95B (SU9);36;18.3;Seatback TV;None;None;No;Recliner
+Aeroflot;Airbus A320 (320) V1;38;21;Portable Device;All Seats;AC Power;No;Recliner
+Aeroflot;Airbus A321 (321) V2;38;21;Portable Device;All Seats;AC Power;No;Recliner
+Aerolineas Argentinas;Boeing 737-700 (737);36;18;None;None;None;No;Recliner
+Aerolineas Argentinas;Boeing 737-800 (738);36;18;None;None;None;Yes;Recliner
+Aeromexico;Boeing 737 MAX 8 (7M8);38;21;On-Demand TV;All Seats;AC Power;Yes;Recliner
+Aeromexico;Boeing 737-700 (737);36;21;Overhead TV;None;None;No;Recliner
+Aeromexico;Embraer 190 (E90) V1;36;19;None;None;None;No;Recliner
+Aeromexico;Boeing 737-800 (738) V1;39;21;On-Demand TV;None;None;No;Recliner
+Air Austral;Boeing 737-800 (738);40-42;20.4;Overhead TV;None;None;Yes;Recliner
+Air Canada;Embraer E-175;38;20;On-Demand TV;All Seats;AC Power;Yes;Recliner
+Air Canada;Airbus A321 (321) V2;37-38;21.1;On-Demand TV;All Seats;AC Power;Yes;Recliner
+Air Canada;Boeing 737 MAX 8 (7M8);38;21;On-Demand TV;All Seats;AC Power;No;Recliner
+Air Canada;Bombardier CRJ-705;37;21;On-Demand TV;None;None;No;Recliner
+Air Canada;Bombardier CRJ-900;37;21;On-Demand TV;None;None;No;Recliner
+Air Canada;Airbus A321 (321) V1;37-38;21.1;On-Demand TV;All Seats;AC Power;No;Recliner
+Air Canada;Embraer E-190;38;20;On-Demand TV;All Seats;AC Power;No;Recliner
+Air Canada;Airbus A319 (319) rouge;36;21;Portable Device;All Seats;AC Power;No;Standard
+Air Canada;Airbus A321 (321) rouge;37;21;Portable Device;All Seats;AC Power;No;Recliner
+Air Canada;Airbus A320 (320);38;21.1;On-Demand TV;All Seats;AC Power;Yes;Recliner
+Air Canada;Airbus A319 (319);38-39;21.1;On-Demand TV;All Seats;AC Power;Yes;Recliner
+Air China;Airbus A321 (321) V2;38;21;Overhead TV;None;None;No;Recliner
+Air China;Boeing 737-700 (737);38;21.0;Overhead TV;None;None;No;Recliner
+Air China;Boeing 737-800 (738) V1;40;21.0;Overhead TV;None;None;No;Recliner
+Air China;Boeing 737-800 (738) V2;38;21.0;Overhead TV;None;None;No;Recliner
+Air China;Airbus A319 (319);41;21.0;Overhead TV;None;None;No;Recliner
+Air China;Airbus A320 (320);36;21.0;Overhead TV;None;None;No;Recliner
+Air China;Airbus A321 (321) V1;38;21.0;Overhead TV;None;None;No;Recliner
+Air Europa;Boeing 737-800 (738);33;21;Overhead TV;None;None;No;Recliner
+Air Europa;Embraer 195 (E95);30;18;Overhead TV;None;None;No;Standard
+Air France;Airbus A320 (320) V2;32;18;Seatback TV;None;None;No;Standard
+Air France;Airbus A321 (321) V1;32;18;Overhead TV;None;None;No;Standard
+Air France;Embraer E-170;36;19;None;All Seats;AC Power;No;Recliner
+Air France;Embraer E-190;36;19;None;All Seats;AC Power;No;Recliner
+Air France;Airbus A320 (320) V1;34;18;Overhead TV;All Seats;AC Power;No;Standard
+Air France;Airbus A319 (319) V1;33;18;None;None;None;No;Standard
+Air France;Airbus A318 (318);32;18;None;None;None;No;Standard
+Air India;Airbus A321 (321);40;21;Seatback TV;None;None;No;Recliner
+Air India;Airbus A320 (320) V2;40;21;Seatback TV;None;None;No;Recliner
+Air India;Airbus A319 (319) V1;40;21;Seatback TV;All Seats;AC Power;No;Recliner
+Air Italy;Boeing 737 MAX 8 (7M8);32;17;None;All Seats;AC Power;No;Standard
+Air Serbia;Airbus A319 (319);39;20;None;None;None;Yes;Recliner
+Air Serbia;Airbus A320 (320);39;20;None;None;None;Yes;Recliner
+Air Transat;Boeing 737-800 V2 Domestic;34;16.5;Overhead TV;None;None;No;Standard
+Alaska Airlines;Boeing 737-400 (734);36;21.0;Portable Device;None;None;Yes;Recliner
+Alaska Airlines;Boeing 737-900 (739) V1;36;21;Portable Device;All Seats;AC Power;Yes;Recliner
+Alaska Airlines;Boeing 737-900 (739) V2;41;21;Portable Device;All Seats;AC Power;Yes;Recliner
+Alaska Airlines;Embraer 175 (E75);42;21.0;Yes;All Seats;AC Power;Yes;Recliner
+Alaska Airlines;Boeing 737-700 (737);36;21;Portable Device;None;None;Yes;Recliner
+Alaska Airlines;Boeing 737-800 (738) Slimline;41;21;Portable Device;All Seats;AC Power;Yes;Recliner
+Alitalia;Embraer E-175;30;18;None;None;None;No;Standard
+Alitalia;Airbus A321 (321) Two Class;32-34;18;None;None;None;No;Standard
+Alitalia;Embraer E-190;34;18;None;None;None;No;Standard
+Alitalia;Airbus A320 (320) Two Class;32;18;None;None;None;No;Standard
+American Airlines;Airbus A321 (321) V2;38;21;Seatback TV;All Seats;AC Power;Yes;Recliner
+American Airlines;Airbus A321 (321) V3;36;21;None;None;None;Yes;Recliner
+American Airlines;Airbus A321 (32B) Transcon;62;21;Seatback TV;All Seats;AC Power;Yes;Open Suite
+American Airlines;Airbus A321 (32B) Transcon;58;19;Seatback TV;All Seats;AC Power;Yes;Flat Bed
+American Airlines;Boeing 737 MAX 8 (7M8);37;21;Portable Device;All Seats;AC Power;Yes;Recliner
+American Airlines;Boeing 737-800 (738) V1;40-42;20.4;Yes;All Seats;AC Power;Yes;Recliner
+American Airlines;Boeing 737-800 (738) V2;37;21;Portable Device;All Seats;AC Power;Yes;Recliner
+American Airlines;Bombardier CRJ-700 (CR7) V1;37;21.0;None;None;None;Yes;Recliner
+American Airlines;Bombardier CRJ-700 (CR7) V2;37;19.75;None;None;None;Yes;Recliner
+American Airlines;Bombardier CRJ-900 (CR9) V1;37;19.6;None;None;None;Yes;Recliner
+American Airlines;Bombardier CRJ-900 (CR9) V2;38;19.7;None;None;None;Yes;Recliner
+American Airlines;Bombardier CRJ-900 (CR9) V3;38;19.7;None;None;None;Yes;Recliner
+American Airlines;Airbus A319 (319);39-40;20.4-21;Yes;All Seats;AC Power;Yes;Recliner
+American Airlines;Embraer ERJ-175 (E75) V1;37;19.9;None;None;None;Yes;Recliner
+American Airlines;Embraer ERJ-190 (E90);36;19.0;None;None;None;Yes;Recliner
+American Airlines;McDonnell Douglas MD-80 (M80);38-40;21;None;All Seats;DC Power;Yes;Recliner
+American Airlines;Airbus A320 (320);36;21;None;None;None;Yes;Recliner
+American Airlines;Embraer ERJ-175 (E75);37;19.0;None;None;None;Yes;Recliner
+ANA;Boeing 737-800 (738) V2;50;20;Overhead TV;All Seats;AC Power;No;Recliner
+ANA;Boeing 737-800 (738) V1;50;20;Overhead TV;All Seats;AC Power;No;Recliner
+Asiana;Airbus A321-200 (321) V2;39;21.0;Overhead TV;All Seats;AC Power;No;Recliner
+Asiana;Airbus A320-200 (320) V1;42;21.0;Seatback TV;None;None;No;Recliner
+Asiana;Airbus A321-200 (321) V1;39;21.0;On-Demand TV;All Seats;AC Power;No;Recliner
+AtlasGlobal;Airbus A319-100 (319);36;22;Overhead TV;None;None;No;Recliner
+AtlasGlobal;Airbus A320-200 (320);36;22;Overhead TV;None;None;No;Recliner
+AtlasGlobal;Airbus A321-200 (321) V1;36;22;Overhead TV;None;None;No;Recliner
+Austrian;Airbus A319 (319);30;17.5;Overhead TV;None;None;No;Standard
+Austrian;Bombardier Q400 (DH4);30;17;None;None;None;No;Standard
+Austrian;Embraer E-195 (E95) V1;31;17.3;None;None;None;No;Standard
+Avianca;Airbus A318 (318);40;18-21;Overhead TV;All Seats;AC Power;No;Recliner
+Avianca;Airbus A320 (320);40;18-21;On-Demand TV;All Seats;AC Power;No;Recliner
+Avianca;Airbus A321 (321);40;18-21;On-Demand TV;All Seats;AC Power;No;Recliner
+Avianca;Embraer 190 (E90);38;18-20;On-Demand TV;None;None;No;Recliner
+Avianca;Airbus A319 (319);40;18-21;On-Demand TV;All Seats;AC Power;No;Recliner
+Azerbaijan Hava Yollary;Airbus A319 (319);42;21;Overhead TV;None;None;No;Recliner
+Azerbaijan Hava Yollary;Airbus A320 (320);42;21;Overhead TV;None;None;No;Recliner
+Bangkok Airways;Airbus A319 (319) Two Class;47;22;None;None;None;No;Recliner
+bmi regional;Embraer E-135 (ER3);31-32;18;None;None;None;No;Standard
+bmi regional;Embraer E-145 (ERJ);31;18.0;None;None;None;No;Standard
+British Airways;Airbus A320 (320) European;30;17;Overhead TV;None;None;No;Standard
+British Airways;Airbus A319 (319) European;30;17;Overhead TV;None;None;No;Standard
+British Airways;Airbus A321 (321) European;30;17;Overhead TV;None;None;No;Standard
+British Airways;Airbus A318 (318);73;20.0;Portable Device;All Seats;AC Power;Yes;Flat Bed
+British Airways;Embraer E-170 European;30;18;None;None;None;No;Standard
+Brussels Airlines;Airbus A320 (320) V2;30;17.5;Overhead TV;None;None;No;Standard
+Brussels Airlines;Airbus A320 (320) V1;30;17.5;Overhead TV;None;None;No;Standard
+China Airlines;Boeing 737-800 (738);37;21.0;None;None;None;No;Recliner
+China Airlines;Airbus A330-300 (333) V1;63;20.0;On-Demand TV;All Seats;AC Power;No;Recliner
+China Eastern;Boeing 737-700 (737);36;20;Overhead TV;All Seats;AC Power;No;Recliner
+China Eastern;Airbus A319 (319);36;20;Overhead TV;All Seats;AC Power;No;Recliner
+China Eastern;Boeing 737-800 (738) V3;36;20;Overhead TV;All Seats;AC Power;No;Recliner
+China Eastern;Boeing 737-800 (738) V4;36;20;Overhead TV;All Seats;AC Power;No;Recliner
+China Eastern;Airbus A320 (320);36;20;Overhead TV;All Seats;AC Power;No;Recliner
+China Eastern;Airbus A321-200 (321);36;20;Overhead TV;All Seats;AC Power;No;Recliner
+China Eastern;Boeing 737-800 (738) V1/V2;36;20;Overhead TV;All Seats;AC Power;No;Recliner
+China Southern;Airbus A321 (321);42;22;On-Demand TV;None;None;No;Recliner
+China Southern;Boeing 737-300 (733) V1;36-38;24.0;None;None;None;No;Recliner
+China Southern;Airbus A319 (319);42;22;On-Demand TV;None;None;No;Recliner
+China Southern;Boeing 737-700 (737) V2;42;24.0;Overhead TV;None;None;No;Recliner
+China Southern;Boeing 737-800 (738) V1;42;24.1;Overhead TV;None;None;No;Recliner
+China Southern;Boeing 737-800 (738) V2;42;24.1;Overhead TV;None;None;No;Recliner
+China Southern;Boeing 737-800 (738) V3;42;24.1;Overhead TV;None;None;No;Recliner
+China Southern;Embraer ERJ-190;40;24;None;None;None;No;Recliner
+China Southern;Airbus A320 (320);42-44;22;On-Demand TV;None;None;No;Recliner
+China Southern;Boeing 737-700 (737) V1;42-44;24.0;Overhead TV;None;None;No;Recliner
+Copa Airlines;Boeing 737-800 (738) V1;38;21;On-Demand TV;None;None;No;Recliner
+Copa Airlines;Embraer E-190AR (E90) V1;38;20.0;Overhead TV;None;None;No;Recliner
+Copa Airlines;Boeing 737-700 (73G);38;20;Overhead TV;None;None;No;Recliner
+Copa Airlines;Embraer E-190 (E90) V3;33;18;Overhead TV;None;None;No;Standard
+Croatia Airlines;Bombardier CRJ-1000 (CRK);32;17;None;None;None;No;Standard
+Croatia Airlines;Airbus A320 (320);32;18;Overhead TV;None;None;No;Standard
+Croatia Airlines;Airbus A319 (319);32;18;Overhead TV;None;None;No;Standard
+Croatia Airlines;Bombardier Q400 (DH4);31;17;None;None;None;No;Standard
+Czech Airlines;Airbus A319 (319);31;18;None;None;None;No;Standard
+Czech Airlines;ATR 42-500 (AT5);30;17;None;None;None;No;Standard
+Czech Airlines;ATR 72-500 (AT7);30;17;None;None;None;No;Standard
+Delta;Airbus A319 (319) V2;36;21;Satellite TV;All Seats;AC Power;Yes;Recliner
+Delta;Airbus A320 (320/32R) V1;36;21;None;None;None;Yes;Recliner
+Delta;Airbus A321 (321);36;21;On-Demand TV;All Seats;AC Power;Yes;Recliner
+Delta;Boeing 717-200 (717);37;19.6;None;All Seats;AC Power;Yes;Recliner
+Delta;Boeing 737-700 (73W);37;21;On-Demand TV;All Seats;AC Power;Yes;Recliner
+Delta;Boeing 737-800 (73H);38;21;On-Demand TV;All Seats;AC Power;Yes;Recliner
+Delta;Boeing 737-900ER (739);37;21;On-Demand TV;All Seats;AC Power;Yes;Recliner
+Delta;Boeing 757-200 (757);37-38;21;Overhead TV;None;None;Yes;Recliner
+Delta;Boeing 757-200 (75D);37;21.0;On-Demand TV;All Seats;AC Power;Yes;Recliner
+Delta;Boeing 757-200 (75G);37;21;None;None;None;Yes;Recliner
+Delta;Boeing 757-200 (75P);36-37;21;On-Demand TV;None;None;Yes;Recliner
+Delta;Boeing 757-300 (75Y);37;21;On-Demand TV;All Seats;AC Power;Yes;Recliner
+Delta;Boeing 767-300 (76P/76Q);37-38;18.5;On-Demand TV;All Seats;AC Power;Yes;Recliner
+Delta;Bombardier CRJ-700 (CR7) V1;36;19.6;None;None;None;Yes;Recliner
+Delta;Bombardier CRJ-700 (CR7) V2;36;19.6;None;None;None;No;Recliner
+Delta;Bombardier CRJ-700 (CR7) V3;36;19;None;All Seats;AC Power;Yes;Recliner
+Delta;Bombardier CRJ-900 (CR9);37;19.6;None;None;None;Yes;Recliner
+Delta;Embraer E-170 (E70);37;20.0;None;None;None;Yes;Recliner
+Delta;Embraer E-175 (E75);37;20.0;None;None;None;Yes;Recliner
+Delta;McDonnell Douglas MD-88 (M88);37;19.6;None;All Seats;AC Power;Yes;Recliner
+Delta;McDonnell Douglas MD-90 (M90);37;19.6;None;All Seats;AC Power;Yes;Recliner
+Delta;Airbus A320 (320/32K) V2;36;21;None;All Seats;AC Power;Yes;Recliner
+Dragonair;Airbus A320 (320) V1;42;20;None;All Seats;AC Power;No;Recliner
+Dragonair;Airbus A321 (321);42;20-21.5;Seatback TV;All Seats;AC Power;No;Recliner
+Edelweiss Air;Airbus A320-200 (320);32;18;None;None;None;No;Standard
+Egyptair;Airbus A320 (320);36-38;21;Overhead TV;None;None;No;Recliner
+Egyptair;Boeing 737-800 (738) V1;48;20;Seatback TV;All Seats;AC Power;No;Recliner
+Egyptair;Boeing 737-800 (738) V2;38;21;On-Demand TV;All Seats;AC Power;No;Recliner
+Egyptair;Boeing 777-300ER (77W);60;20;On-Demand TV;All Seats;AC Power;No;Angle Lie Flat
+Egyptair;Embraer E170 (E70);31;17;None;None;None;No;Standard
+Egyptair;Airbus A321 (321);36;21;Overhead TV;None;None;No;Recliner
+EL AL;Boeing 737-900 (739);44;20.5;Overhead TV;All Seats;AC Power;No;Recliner
+EL AL;Boeing 737-800 (738);45;20.5;Overhead TV;None;None;No;Recliner
+Ethiopian Airlines;Boeing 737-800 (738);48;20;Overhead TV;None;None;No;Recliner
+Ethiopian Airlines;Bombardier Q400 (DH4) V1;30;17;None;None;None;No;Standard
+Ethiopian Airlines;Boeing 737-700 (737);44;20;Overhead TV;None;None;No;Recliner
+Etihad;Airbus A319 (319);49;21;On-Demand TV;None;None;No;Recliner
+Etihad;Airbus A320 (320);49;21;On-Demand TV;None;None;Yes;Recliner
+Etihad;Airbus A321 (321);49;21;Seatback TV;None;None;Yes;Recliner
+Etihad;Boeing 787-9 (789) V2;73;22;On-Demand TV;All Seats;AC Power;Yes;Flat Bed
+EVA Air;Airbus A321 (321);45;21;On-Demand TV;None;None;No;Recliner
+Fiji Airways;Aerospatiale/Alenia 72-600 (AT7);31;17.3;None;None;None;No;Standard
+Finnair;Airbus A319 (319);31;18;Overhead TV;None;None;No;Standard
+Finnair;Airbus A320 (320);31;18;Overhead TV;None;None;No;Standard
+Finnair;Airbus A321 (321) V2;31;18;Overhead TV;None;None;No;Standard
+Finnair;Embraer E-170;31;18;None;None;None;No;Standard
+Finnair;Embraer E-190;31;18;None;None;None;No;Standard
+Finnair;Airbus A321 (321) V1;31;18;Overhead TV;None;None;No;Standard
+flydubai;Boeing 737-800 (738) V2;42;21;On-Demand TV;All Seats;AC Power;Yes;Recliner
+Garuda Indonesia;Boeing 737 MAX 8 (7M8);38;21;On-Demand TV;All Seats;AC Power;No;Recliner
+Garuda Indonesia;Boeing 737-800 (738);42;19;On-Demand TV;All Seats;AC Power;No;Recliner
+Garuda Indonesia;Bombardier CRJ-1000;32;19;None;None;None;No;Recliner
+Gol;Boeing 737-800 (738) V3;31-32;17;Portable Device;None;None;No;Recliner
+Gulf Air;Airbus A320ER (320) V2;77;22;Seatback TV;None;None;No;Angle Lie Flat
+Gulf Air;Airbus A320 (320) V1;45;22;On-Demand TV;None;None;No;Recliner
+Hainan Airlines;Boeing 737-800 (738);50;20;Overhead TV;None;None;No;Recliner
+Hainan Airlines;Boeing 737 MAX 8 (7M8);50;20;None;All Seats;AC Power;No;Recliner
+Hawaiian Airlines;Boeing 717-200 (717);37;18.5;None;None;None;No;Recliner
+Hong Kong Airlines;Airbus A320-200 (32H) V2;45;20;Seatback TV;All Seats;AC Power;No;Recliner
+Hong Kong Airlines;Airbus A330-200 (33V) V2;41-45;21;Seatback TV;All Seats;AC Power;No;Flat Bed
+Hong Kong Airlines;Airbus A330-200 (332) V1;60;21;Seatback TV;All Seats;AC Power;No;Angle Lie Flat
+Iberia;Airbus A321 (321);31;17;None;None;None;No;Standard
+Iberia;Airbus A330-300 (333) V2;78;26;Seatback TV;All Seats;AC Power;Yes;Flat Bed
+Iberia;Airbus A320 (320);31;17;None;None;None;No;Standard
+Iberia;Airbus A319 (319);31;17;None;None;None;No;Standard
+Iberia;Airbus A320 (320) Express;30;17;None;None;None;No;Standard
+Japan Airlines;Boeing 767-300 (763) Domestic;38;18.5;None;All Seats;AC Power;Yes;Recliner
+Japan Airlines;Boeing 737-400 (734) Two Class;38;18.5;On-Demand TV;All Seats;AC Power;Yes;Recliner
+Japan Airlines;Boeing 737-800 (738) Domestic;38;18.5;None;All Seats;AC Power;Yes;Recliner
+Japan Airlines;Boeing 767-300ER (76W) V3;38;18.5;Seatback TV;All Seats;AC Power;Yes;Recliner
+Jet Airways;Boeing 737-800 (738);40;21;On-Demand TV;All Seats;AC Power;No;Recliner
+Jet Airways;Boeing 737-900ER (739);44;21;On-Demand TV;None;None;No;Recliner
+Jet Airways;Boeing 737-700 (73G);40;21;Seatback TV;None;None;No;Recliner
+Jet Airways;Boeing 737-900 (739);40;21;None;None;None;No;Recliner
+JetBlue;Airbus A321 (321) Transcon;60;22;On-Demand TV;All Seats;AC Power;Yes;Closed Suite
+JetBlue;Airbus A321 (321) Transcon;58;20.5;On-Demand TV;All Seats;AC Power;Yes;Flat Bed
+Kenya Airways;Boeing 737-800 (738);47;17;Overhead TV;None;None;No;Recliner
+Kenya Airways;Embraer E-190;38;17;Seatback TV;None;None;No;Recliner
+KLM;Boeing 737-800 (738);33;17;None;All Seats;AC Power;No;Recliner
+KLM;Boeing 737-900 (739);33;17.0;None;All Seats;AC Power;No;Standard
+KLM;Embraer E-175;32;17;None;None;None;No;Recliner
+KLM;Embraer E-190;32;17;None;None;None;No;Recliner
+KLM;Boeing 737-700 (737);33;17.0;None;All Seats;AC Power;No;Recliner
+Korean Air;Boeing 737-800 (738) V2;50;20.9;On-Demand TV;All Seats;AC Power;Yes;Recliner
+Korean Air;Boeing 737-900 (739);40;19;None;None;None;No;Recliner
+Korean Air;Boeing 737-900ER (739);50;20.9;On-Demand TV;All Seats;AC Power;No;Recliner
+Korean Air;Boeing 737-800 (738) V1;44-45;19;None;None;None;No;Recliner
+LATAM Brasil;Airbus A320 (320) Business;38;20;Overhead TV;None;None;No;Angle Lie Flat
+Lion Airlines;Boeing 737-900 (739) V2;38;21;None;None;None;No;Recliner
+LOT Polish Airlines;Embraer ERJ-175 (E75);31;17.3;None;All Seats;AC Power;No;Standard
+LOT Polish Airlines;Boeing 737 MAX 8 (7M8);34;17;None;All Seats;AC Power;No;Standard
+Lufthansa;Airbus A320 (320) V1;30;18;None;None;None;No;Standard
+Lufthansa;Airbus A320 (320) V2;30;18;None;None;None;No;Standard
+Lufthansa;Bombardier CRJ-700;31;17.5;None;None;None;No;Standard
+Lufthansa;Bombardier CRJ-900;31;17.5;None;None;None;No;Standard
+Lufthansa;Embraer E-190;32;18.19;None;None;None;No;Standard
+Lufthansa;Embraer E-195;32;18.25;None;None;None;No;Standard
+Lufthansa;Airbus A319 (319);31;18;None;None;None;No;Standard
+Lufthansa;Airbus A321 (321);30;18;Portable Device;None;None;No;Standard
+Malaysia Airlines;Boeing 737-800 (738) V2;42;21;On-Demand TV;All Seats;AC Power;No;Recliner
+Malaysia Airlines;Boeing 737-800 (738) V1;42;21;On-Demand TV;All Seats;AC Power;No;Recliner
+Middle East Airlines;Airbus A320-200 (320);36;20;On-Demand TV;None;None;No;Recliner
+Oman Air;Boeing 737-700 (73G);40;21;Overhead TV;None;None;No;Recliner
+Oman Air;Boeing 737-800 (738);40;21;Seatback TV;All Seats;AC Power;No;Recliner
+Pakistan International Airlines;Airbus A320-200 (320) V1;36;21;Overhead TV;None;None;No;Standard
+Philippine Airlines;Airbus A320 (320) V1;36;21;On-Demand TV;None;None;No;Recliner
+Philippine Airlines;Airbus A320 (320) V2;36;21;On-Demand TV;None;None;No;Recliner
+Philippine Airlines;Airbus A321 (321);37;21;None;All Seats;AC Power;No;Recliner
+Qantas;Boeing 737-800 (738) V1;37;22.0;Overhead TV;All Seats;AC Power;No;Recliner
+Qantas;Boeing 717-200 (717) Two Class;37;20;Portable Device;None;None;No;Recliner
+Qantas;Boeing 737-800 (738) V2;37;22.0;On-Demand TV;None;None;No;Recliner
+Qatar Airways;Airbus A319 (319) Business;60;21;On-Demand TV;All Seats;AC Power;Yes;Flat Bed
+Qatar Airways;Airbus A320 (320) V1;45;21;On-Demand TV;All Seats;AC Power;No;Recliner
+Qatar Airways;Airbus A320 (320) V2;45;21;On-Demand TV;All Seats;AC Power;Yes;Flat Bed
+Qatar Airways;Airbus A321 (321) V1;45;21;On-Demand TV;None;None;No;Recliner
+Qatar Airways;Airbus A321 (321) V2;45;21;On-Demand TV;All Seats;AC Power;No;Recliner
+Qatar Airways;Airbus A319-133LR (319);60;20.5;On-Demand TV;All Seats;AC Power;No;Flat Bed
+Royal Air Maroc;Boeing 737-700 (73G);36;21;Overhead TV;None;None;No;Recliner
+Royal Air Maroc;Embraer E-190 (E90);36;21;None;None;None;No;Recliner
+Royal Air Maroc;ATR 72-600 (AT7);30;17;None;None;None;No;Standard
+Royal Air Maroc;Boeing 737-800 (738);36;21;Overhead TV;None;None;No;Recliner
+Royal Brunei;Airbus A320 (320) V2;42;21;On-Demand TV;All Seats;AC Power;No;Recliner
+Royal Brunei;Airbus A320 (320) V1;44;21;Seatback TV;All Seats;AC Power;No;Recliner
+Royal Jordanian;Airbus A320 (320);46;21;On-Demand TV;None;None;No;Recliner
+Royal Jordanian;Airbus A321 (321);46;19;On-Demand TV;None;None;No;Recliner
+Royal Jordanian;Embraer ERJ-175 (E75);40;19;None;None;None;No;Recliner
+Royal Jordanian;Embraer ERJ-195 (E95);42;19.0;None;None;None;No;Recliner
+Royal Jordanian;Airbus A319 (319);46;21;On-Demand TV;None;None;No;Recliner
+S7 Airlines;Airbus A320 (320);32-38;17-21;None;None;None;No;Recliner
+S7 Airlines;Airbus A321 (321);32-38;17-21;None;None;None;No;Recliner
+S7 Airlines;Boeing 737-800 (738);35-39;19-21;None;None;None;No;Recliner
+Saudia;Airbus A319 (319);45;21;On-Demand TV;All Seats;AC Power;No;Recliner
+Saudia;Airbus A320 (320) V1;45;21;On-Demand TV;All Seats;AC Power;No;Recliner
+Saudia;Airbus A321 (321);46;21;On-Demand TV;All Seats;AC Power;No;Recliner
+Saudia;Airbus A330-300 (333) V1;54;18.8;On-Demand TV;All Seats;AC Power;Yes;Recliner
+Saudia;Boeing 747-400 (744);47;20.3;On-Demand TV;None;None;No;Recliner
+Saudia;Embraer 170;40;20;None;All Seats;AC Power;No;Recliner
+Saudia;Airbus A320 (320) V2;54;21;On-Demand TV;All Seats;AC Power;No;Recliner
+Shanghai Airlines;Boeing 737-700 (737);36;20;Overhead TV;All Seats;AC Power;Yes;Recliner
+Shanghai Airlines;Boeing 737-800 (738);36;20;Overhead TV;All Seats;AC Power;Yes;Recliner
+Shanghai Airlines;Airbus A330-200 (332);58;20;On-Demand TV;All Seats;AC Power;Yes;Flat Bed
+Silkair;Boeing 737 MAX 8 (7M8);49;22;None;All Seats;AC Power;Yes;Recliner
+Silkair;Airbus A319 (319);40;20;Overhead TV;None;None;No;Recliner
+Silkair;Airbus A320 (320);40;20;Overhead TV;None;None;No;Recliner
+Silkair;Boeing 737-800 (738);38;22;Overhead TV;All Seats;AC Power;No;Recliner
+South African Airways;Boeing 737-800 (738);36;20.5;Overhead TV;All Seats;AC Power;No;Recliner
+South African Airways;Airbus A319 (319);35-36;18;Overhead TV;All Seats;AC Power;No;Recliner
+South African Airways;Airbus A320 (320);35-36;18;On-Demand TV;All Seats;AC Power;No;Recliner
+SriLankan Airlines;Airbus A320neo (321);39-40;21;On-Demand TV;None;None;No;Recliner
+SriLankan Airlines;Airbus A321 (321);49;21;On-Demand TV;None;None;No;Recliner
+SriLankan Airlines;Airbus A321neo (321);49;21;On-Demand TV;None;None;No;Standard
+SriLankan Airlines;Airbus A320-200 (320) V1;41;21;None;None;None;No;Recliner
+SriLankan Airlines;Airbus A320-200 (320) V2;39-40;21;On-Demand TV;None;None;No;Recliner
+Sun Country;Boeing 737-800 (738);37-39;21;Portable Device;None;None;No;Recliner
+Sun Country;Boeing 737-700 (73G);37-39;21;Portable Device;None;None;No;Recliner
+SWISS;Airbus A320 (320) V1;34;17.0;Overhead TV;None;None;No;Recliner
+SWISS;Airbus A320 (320) V2;32;17;Overhead TV;None;None;No;Standard
+SWISS;Airbus A321 (321) V1;34;17;Overhead TV;None;None;No;Standard
+SWISS;Airbus A321 (321) V2;34;17;Overhead TV;None;None;No;Standard
+SWISS;Bombardier CS100;30-32;18.5;None;None;None;No;Standard
+SWISS;Bombardier CS300;34;17;None;None;None;No;Recliner
+SWISS;Airbus A319 (319);34;17.0;Overhead TV;None;None;No;Recliner
+TACA;Airbus A320 (320);38;18-21;On-Demand TV;All Seats;AC Power;No;Recliner
+TACA;Embraer E-190;37-39;18-20;None;None;None;No;Recliner
+TACA;Airbus A319 (319);38;18-21;On-Demand TV;All Seats;AC Power;No;Recliner
+TACA;Airbus A321 (321);36-39;18-21;On-Demand TV;All Seats;AC Power;No;Recliner
+TAP Portugal;Airbus A319 (319) V2;34;18.8;Overhead TV;None;None;No;Standard
+TAP Portugal;Airbus A320 (320);32;22;Overhead TV;All Seats;AC Power;No;Standard
+TAP Portugal;Airbus A319 (319) V1;33;18;Overhead TV;All Seats;AC Power;No;Standard
+TAP Portugal;Embraer E190 (E90);31-32;18;None;None;None;No;Standard
+TAP Portugal;Airbus A321 (321);32;22;Overhead TV;None;None;No;Standard
+THAI;Airbus A320 (320);33;18;None;None;None;No;Standard
+THAI;Boeing 737-400 (734);36;20;Seatback TV;All Seats;AC Power;No;Recliner
+Tunis Air;Airbus A319 (319) V1;36;20;None;None;None;No;Recliner
+Tunis Air;Airbus A320 (320);31-33;18;None;None;None;No;Standard
+Turkish Airlines;Airbus A319 (319);37;17.2;Overhead TV;None;None;No;Standard
+Turkish Airlines;Airbus A320 (320);34;17-21;Overhead TV;None;None;No;Recliner
+Turkish Airlines;Airbus A321 (321) V1;33-34;20;Overhead TV;None;None;No;Recliner
+Turkish Airlines;Airbus A321 (321) V2;34;20;On-Demand TV;None;None;No;Recliner
+Turkish Airlines;Boeing 737-700 (737) Two Class;43;21;None;None;None;No;Recliner
+Turkish Airlines;Boeing 737-800 (738) V1;35;20.0;On-Demand TV;None;None;No;Standard
+Turkish Airlines;Boeing 737-800 (738) V2;35;20.0;Overhead TV;None;None;No;Standard
+Turkish Airlines;Boeing 737-800 (738) V3;43;20;On-Demand TV;None;None;No;Recliner
+Turkish Airlines;Boeing 737-900ER (739) V1;43;20.0;On-Demand TV;All Seats;AC Power;No;Recliner
+Turkish Airlines;Boeing 737-900ER (739) V2;43;20;On-Demand TV;All Seats;AC Power;No;Recliner
+Ukraine International;Boeing 737-800 (738);30-31;16-17;None;None;None;No;Standard
+Ukraine International;Embraer E-190 (E90) V2;32;18;None;None;None;No;Standard
+United;Airbus A319 (319);37;20.5;None;All Seats;AC Power;Yes;Recliner
+United;Airbus A320 (320);39;20.5;None;All Seats;AC Power;Yes;Recliner
+United;Boeing 737 MAX 9;38;20.5;None;All Seats;AC Power;Yes;Recliner
+United;Boeing 737-700 (737) Domestic;38;21.0;On-Demand TV;All Seats;AC Power;Yes;Recliner
+United;Boeing 737-700 (737) Micronesia;38;21.0;Overhead TV;None;AC Power;Yes;Recliner
+United;Boeing 737-700 (737) V3;38;20.4;On-Demand TV;All Seats;AC Power;Yes;Recliner
+United;Boeing 737-800 (738) V1;38;21.0;On-Demand TV;All Seats;AC Power;Yes;Recliner
+United;Boeing 737-800 (738) V2;37;21;Satellite TV;All Seats;AC Power;Yes;Recliner
+United;Boeing 737-800 (738) V3;37;21;Satellite TV;All Seats;AC Power;Yes;Recliner
+United;Boeing 737-800 (738) V4;37;20.7;Seatback TV;All Seats;AC Power;No;Recliner
+United;Boeing 737-900 (739) V1/V2;38;21;On-Demand TV;All Seats;AC Power;Yes;Recliner
+United;Boeing 737-900 (739) V3;37;21.0;None;All Seats;AC Power;Yes;Recliner
+United;Boeing 737-900 (739) V4;37;20;On-Demand TV;All Seats;AC Power;Yes;Recliner
+United;Boeing 757-300 (753) V1/V2;38;20.75;On-Demand TV;All Seats;AC Power;Yes;Recliner
+United;Bombardier CRJ-700 V1;37;19.0;None;None;None;No;Recliner
+United;Bombardier CRJ-700 V2;37;20;None;None;None;No;Recliner
+United;Bombardier CRJ-700 V3;37;20;None;None;None;No;Recliner
+United;Bombardier Q400 V1;36;17;None;None;None;No;Recliner
+United;Embraer EMB 170;36;24.0;None;None;None;Yes;Recliner
+United;Embraer EMB 175;37;20;None;All Seats;AC Power;Yes;Recliner
+UTair Aviation;Boeing 737-800 (738) V1;38;21;None;None;None;No;Recliner
+Vietnam Airlines;Airbus A321-200 (321) V2;45;21;Overhead TV;None;None;No;Recliner
+Vietnam Airlines;Airbus A321-200 (321) V3;45;21;Overhead TV;None;None;No;Recliner
+Vietnam Airlines;Airbus A321-200 (321) V1;45;21;Overhead TV;None;None;No;Recliner
+Virgin America;Airbus A319 (319);55;21;On-Demand TV;All Seats;AC Power;Yes;Recliner
+Virgin America;Airbus A320 (320);55;21;On-Demand TV;All Seats;AC Power;Yes;Recliner
+Virgin America;Airbus A321 (321);55;21;On-Demand TV;All Seats;AC Power;Yes;Recliner
+Virgin Australia;Boeing 737-700 (737);37;19.5;Portable Device;None;None;No;Recliner
+Vistara;Airbus A320ceo & neo (320);40;20;None;None;None;No;Recliner
+Xiamen Airlines;Boeing 737-700 (73G);38-43;21;Overhead TV;None;None;No;Recliner
+Xiamen Airlines;Boeing 737-800 (738) V2;41-43;21;Overhead TV;None;None;No;Recliner
+Xiamen Airlines;Boeing 737-800 (738) V3;50;21;Overhead TV;None;None;No;Recliner
